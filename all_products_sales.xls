@@ -1,0 +1,562 @@
+Sale Date,Product,Qty,Day,Month,DayOfWeek,Product_ID
+2026-04-01,AI Gloves (50 Pcs Packet) - 2024,2.0,1,4,2,0
+2026-04-01,AI Sheath - for 0.25 ml straw (50 Pcs Packet),8.0,1,4,2,3
+2026-04-01,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),251.0,1,4,2,5
+2026-04-01,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),292.0,1,4,2,6
+2026-04-01,Frozen Semen Straw (FSS) - GIR,587.0,1,4,2,7
+2026-04-01,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,189.0,1,4,2,8
+2026-04-01,Frozen Semen Straw (FSS) Buffalo Murrah,75.0,1,4,2,9
+2026-04-01,Liquid Nitrogen (LN2) ,497.0,1,4,2,11
+2026-04-02,AI Gloves (50 Pcs Packet) - 2024,6.0,2,4,3,0
+2026-04-02,AI Sheath - for 0.25 ml straw (50 Pcs Packet),9.0,2,4,3,3
+2026-04-02,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),35.0,2,4,3,5
+2026-04-02,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),118.0,2,4,3,6
+2026-04-02,Frozen Semen Straw (FSS) - GIR,157.0,2,4,3,7
+2026-04-02,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,125.0,2,4,3,8
+2026-04-02,Liquid Nitrogen (LN2) ,133.0,2,4,3,11
+2026-04-05,AI Gloves (50 Pcs Packet) - 2024,2.0,5,4,6,0
+2026-04-05,AI Sheath - for 0.25 ml straw (50 Pcs Packet),6.0,5,4,6,3
+2026-04-05,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),131.0,5,4,6,5
+2026-04-05,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),81.0,5,4,6,6
+2026-04-05,Frozen Semen Straw (FSS) - GIR,99.0,5,4,6,7
+2026-04-05,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,126.0,5,4,6,8
+2026-04-05,Liquid Nitrogen (LN2) ,60.0,5,4,6,11
+2026-04-06,AI Gloves (50 Pcs Packet) - 2024,12.0,6,4,0,0
+2026-04-06,AI Sheath - for 0.25 ml straw (50 Pcs Packet),21.0,6,4,0,3
+2026-04-06,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),374.0,6,4,0,5
+2026-04-06,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),566.0,6,4,0,6
+2026-04-06,Frozen Semen Straw (FSS) - GIR,373.0,6,4,0,7
+2026-04-06,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,309.0,6,4,0,8
+2026-04-06,Frozen Semen Straw (FSS) Buffalo Murrah,45.0,6,4,0,9
+2026-04-06,Liquid Nitrogen (LN2) ,370.0,6,4,0,11
+2026-04-07,AI Gloves (50 Pcs Packet) - 2024,17.0,7,4,1,0
+2026-04-07,AI Gun (for 0.25 ml straw) with Container_2025,1.0,7,4,1,2
+2026-04-07,AI Sheath - for 0.25 ml straw (50 Pcs Packet),35.0,7,4,1,3
+2026-04-07,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),336.0,7,4,1,5
+2026-04-07,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),728.0,7,4,1,6
+2026-04-07,Frozen Semen Straw (FSS) - GIR,474.0,7,4,1,7
+2026-04-07,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,514.0,7,4,1,8
+2026-04-07,Frozen Semen Straw (FSS) Buffalo Murrah,5.0,7,4,1,9
+2026-04-07,Goblet (35 X 118mm)_2023,1.0,7,4,1,10
+2026-04-07,Liquid Nitrogen (LN2) ,475.0,7,4,1,11
+2026-04-08,AI Gloves (50 Pcs Packet) - 2024,8.0,8,4,2,0
+2026-04-08,AI Sheath - for 0.25 ml straw (50 Pcs Packet),10.0,8,4,2,3
+2026-04-08,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),130.0,8,4,2,5
+2026-04-08,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),339.0,8,4,2,6
+2026-04-08,Frozen Semen Straw (FSS) - GIR,267.0,8,4,2,7
+2026-04-08,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,82.0,8,4,2,8
+2026-04-08,Frozen Semen Straw (FSS) Buffalo Murrah,1.0,8,4,2,9
+2026-04-08,Liquid Nitrogen (LN2) ,375.0,8,4,2,11
+2026-04-09,Frozen Semen Straw (FSS) - GIR,10.0,9,4,3,7
+2026-04-09,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,10.0,9,4,3,8
+2026-04-09,Liquid Nitrogen (LN2) ,54.0,9,4,3,11
+2026-04-09,Sex Sorted Semen Straw (SS) Cross Breed Jersey (CBJ),1.0,9,4,3,14
+2026-04-10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,10,4,4,3
+2026-04-10,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),30.0,10,4,4,5
+2026-04-10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),15.0,10,4,4,6
+2026-04-10,Frozen Semen Straw (FSS) - GIR,15.0,10,4,4,7
+2026-04-10,Frozen Semen Straw (FSS) Buffalo Murrah,40.0,10,4,4,9
+2026-04-10,Liquid Nitrogen (LN2) ,42.0,10,4,4,11
+2026-04-13,AI Gloves (50 Pcs Packet) - 2024,11.0,13,4,0,0
+2026-04-13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),23.0,13,4,0,3
+2026-04-13,Cryo Container  - BA-3 - 2025,1.0,13,4,0,4
+2026-04-13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),253.0,13,4,0,5
+2026-04-13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),480.0,13,4,0,6
+2026-04-13,Frozen Semen Straw (FSS) - GIR,392.0,13,4,0,7
+2026-04-13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,261.0,13,4,0,8
+2026-04-13,Frozen Semen Straw (FSS) Buffalo Murrah,34.0,13,4,0,9
+2026-04-13,Liquid Nitrogen (LN2) ,482.0,13,4,0,11
+2026-04-14,AI Gloves (50 Pcs Packet) - 2024,4.0,14,4,1,0
+2026-04-14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),7.0,14,4,1,3
+2026-04-14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),114.0,14,4,1,5
+2026-04-14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),105.0,14,4,1,6
+2026-04-14,Frozen Semen Straw (FSS) - GIR,87.0,14,4,1,7
+2026-04-14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,105.0,14,4,1,8
+2026-04-14,Liquid Nitrogen (LN2) ,141.0,14,4,1,11
+2026-04-16,AI Gloves (50 Pcs Packet) - 2024,3.0,16,4,3,0
+2026-04-16,AI Gun (for 0.25 ml straw) with Container_2024,1.0,16,4,3,1
+2026-04-16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),14.0,16,4,3,3
+2026-04-16,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),193.0,16,4,3,5
+2026-04-16,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),579.0,16,4,3,6
+2026-04-16,Frozen Semen Straw (FSS) - GIR,289.0,16,4,3,7
+2026-04-16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,271.0,16,4,3,8
+2026-04-16,Frozen Semen Straw (FSS) Buffalo Murrah,120.0,16,4,3,9
+2026-04-16,Liquid Nitrogen (LN2) ,523.0,16,4,3,11
+2026-04-17,AI Gloves (50 Pcs Packet) - 2024,6.0,17,4,4,0
+2026-04-17,AI Gun (for 0.25 ml straw) with Container_2025,1.0,17,4,4,2
+2026-04-17,AI Sheath - for 0.25 ml straw (50 Pcs Packet),9.0,17,4,4,3
+2026-04-17,Cryo Container  - BA-3 - 2025,1.0,17,4,4,4
+2026-04-17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),199.0,17,4,4,6
+2026-04-17,Frozen Semen Straw (FSS) - GIR,135.0,17,4,4,7
+2026-04-17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,104.0,17,4,4,8
+2026-04-17,Goblet (35 X 118mm)_2023,2.0,17,4,4,10
+2026-04-17,Liquid Nitrogen (LN2) ,294.0,17,4,4,11
+2026-04-17,Thaw Monitor,2.0,17,4,4,17
+2026-04-20,AI Gloves (50 Pcs Packet) - 2024,3.0,20,4,0,0
+2026-04-20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),15.0,20,4,0,3
+2026-04-20,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),138.0,20,4,0,5
+2026-04-20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),139.0,20,4,0,6
+2026-04-20,Frozen Semen Straw (FSS) - GIR,268.0,20,4,0,7
+2026-04-20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,212.0,20,4,0,8
+2026-04-20,Frozen Semen Straw (FSS) Buffalo Murrah,2.0,20,4,0,9
+2026-04-20,Goblet (35 X 118mm)_2023,5.0,20,4,0,10
+2026-04-20,Liquid Nitrogen (LN2) ,273.0,20,4,0,11
+2026-04-21,AI Gloves (50 Pcs Packet) - 2024,5.0,21,4,1,0
+2026-04-21,AI Gun (for 0.25 ml straw) with Container_2024,2.0,21,4,1,1
+2026-04-21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),12.0,21,4,1,3
+2026-04-21,Cryo Container  - BA-3 - 2025,1.0,21,4,1,4
+2026-04-21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),24.0,21,4,1,5
+2026-04-21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),232.0,21,4,1,6
+2026-04-21,Frozen Semen Straw (FSS) - GIR,124.0,21,4,1,7
+2026-04-21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,113.0,21,4,1,8
+2026-04-21,Frozen Semen Straw (FSS) Buffalo Murrah,10.0,21,4,1,9
+2026-04-21,Liquid Nitrogen (LN2) ,355.0,21,4,1,11
+2026-04-22,AI Gloves (50 Pcs Packet) - 2024,6.0,22,4,2,0
+2026-04-22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),17.0,22,4,2,3
+2026-04-22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),236.0,22,4,2,5
+2026-04-22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),94.0,22,4,2,6
+2026-04-22,Frozen Semen Straw (FSS) - GIR,120.0,22,4,2,7
+2026-04-22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,96.0,22,4,2,8
+2026-04-22,Liquid Nitrogen (LN2) ,280.0,22,4,2,11
+2026-04-23,AI Gloves (50 Pcs Packet) - 2024,3.0,23,4,3,0
+2026-04-23,AI Sheath - for 0.25 ml straw (50 Pcs Packet),8.0,23,4,3,3
+2026-04-23,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),60.0,23,4,3,5
+2026-04-23,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),165.0,23,4,3,6
+2026-04-23,Frozen Semen Straw (FSS) - GIR,85.0,23,4,3,7
+2026-04-23,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,50.0,23,4,3,8
+2026-04-23,Liquid Nitrogen (LN2) ,193.0,23,4,3,11
+2026-04-24,AI Gloves (50 Pcs Packet) - 2024,3.0,24,4,4,0
+2026-04-24,AI Sheath - for 0.25 ml straw (50 Pcs Packet),6.0,24,4,4,3
+2026-04-24,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),55.0,24,4,4,5
+2026-04-24,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),100.0,24,4,4,6
+2026-04-24,Frozen Semen Straw (FSS) - GIR,117.0,24,4,4,7
+2026-04-24,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,25.0,24,4,4,8
+2026-04-24,Frozen Semen Straw (FSS) Buffalo Murrah,20.0,24,4,4,9
+2026-04-24,Liquid Nitrogen (LN2) ,117.0,24,4,4,11
+2026-04-27,AI Gloves (50 Pcs Packet) - 2024,9.0,27,4,0,0
+2026-04-27,AI Sheath - for 0.25 ml straw (50 Pcs Packet),26.0,27,4,0,3
+2026-04-27,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),164.0,27,4,0,5
+2026-04-27,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),227.0,27,4,0,6
+2026-04-27,Frozen Semen Straw (FSS) - GIR,316.0,27,4,0,7
+2026-04-27,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,210.0,27,4,0,8
+2026-04-27,Frozen Semen Straw (FSS) Buffalo Murrah,24.0,27,4,0,9
+2026-04-27,Liquid Nitrogen (LN2) ,545.0,27,4,0,11
+2026-04-27,Sex Sorted Semen Straw (SS) GIR ,10.0,27,4,0,15
+2026-04-27,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),40.0,27,4,0,16
+2026-04-28,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,28,4,1,3
+2026-04-28,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),45.0,28,4,1,5
+2026-04-28,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),31.0,28,4,1,6
+2026-04-28,Frozen Semen Straw (FSS) - GIR,25.0,28,4,1,7
+2026-04-28,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,10.0,28,4,1,8
+2026-04-28,Liquid Nitrogen (LN2) ,195.0,28,4,1,11
+2026-04-29,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,29,4,2,3
+2026-04-29,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),90.0,29,4,2,6
+2026-04-29,Frozen Semen Straw (FSS) - GIR,47.0,29,4,2,7
+2026-04-29,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,25.0,29,4,2,8
+2026-04-29,Liquid Nitrogen (LN2) ,24.0,29,4,2,11
+2026-04-30,AI Gloves (50 Pcs Packet) - 2024,9.0,30,4,3,0
+2026-04-30,AI Sheath - for 0.25 ml straw (50 Pcs Packet),8.0,30,4,3,3
+2026-04-30,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),115.0,30,4,3,5
+2026-04-30,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),147.0,30,4,3,6
+2026-04-30,Frozen Semen Straw (FSS) - GIR,101.0,30,4,3,7
+2026-04-30,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,66.0,30,4,3,8
+2026-04-30,Liquid Nitrogen (LN2) ,303.0,30,4,3,11
+2026-05-03,AI Gloves (50 Pcs Packet) - 2024,4.0,3,5,6,0
+2026-05-03,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3.0,3,5,6,3
+2026-05-03,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),30.0,3,5,6,5
+2026-05-03,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),20.0,3,5,6,6
+2026-05-03,Frozen Semen Straw (FSS) - GIR,35.0,3,5,6,7
+2026-05-03,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,35.0,3,5,6,8
+2026-05-03,Liquid Nitrogen (LN2) ,105.0,3,5,6,11
+2026-05-04,AI Gloves (50 Pcs Packet) - 2024,4.0,4,5,0,0
+2026-05-04,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3.0,4,5,0,3
+2026-05-04,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),60.0,4,5,0,5
+2026-05-04,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),90.0,4,5,0,6
+2026-05-04,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,40.0,4,5,0,8
+2026-05-04,Liquid Nitrogen (LN2) ,45.0,4,5,0,11
+2026-05-05,AI Gloves (50 Pcs Packet) - 2024,7.0,5,5,1,0
+2026-05-05,AI Sheath - for 0.25 ml straw (50 Pcs Packet),19.0,5,5,1,3
+2026-05-05,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),231.0,5,5,1,5
+2026-05-05,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),353.0,5,5,1,6
+2026-05-05,Frozen Semen Straw (FSS) - GIR,374.0,5,5,1,7
+2026-05-05,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,223.0,5,5,1,8
+2026-05-05,Frozen Semen Straw (FSS) Buffalo Murrah,11.0,5,5,1,9
+2026-05-05,Liquid Nitrogen (LN2) ,201.0,5,5,1,11
+2026-05-06,AI Gloves (50 Pcs Packet) - 2024,10.0,6,5,2,0
+2026-05-06,AI Sheath - for 0.25 ml straw (50 Pcs Packet),48.0,6,5,2,3
+2026-05-06,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),537.0,6,5,2,5
+2026-05-06,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),881.0,6,5,2,6
+2026-05-06,Frozen Semen Straw (FSS) - GIR,1031.0,6,5,2,7
+2026-05-06,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,317.0,6,5,2,8
+2026-05-06,Frozen Semen Straw (FSS) Buffalo Murrah,115.0,6,5,2,9
+2026-05-06,Liquid Nitrogen (LN2) ,624.0,6,5,2,11
+2026-05-07,AI Gloves (50 Pcs Packet) - 2024,4.0,7,5,3,0
+2026-05-07,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3.0,7,5,3,3
+2026-05-07,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),40.0,7,5,3,5
+2026-05-07,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),107.0,7,5,3,6
+2026-05-07,Frozen Semen Straw (FSS) - GIR,65.0,7,5,3,7
+2026-05-07,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,25.0,7,5,3,8
+2026-05-07,Liquid Nitrogen (LN2) ,149.0,7,5,3,11
+2026-05-08,Liquid Nitrogen (LN2) ,2.0,8,5,4,11
+2026-05-09,AI Gloves (50 Pcs Packet) - 2024,1.0,9,5,5,0
+2026-05-09,AI Sheath - for 0.25 ml straw (50 Pcs Packet),6.0,9,5,5,3
+2026-05-09,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),135.0,9,5,5,5
+2026-05-09,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),125.0,9,5,5,6
+2026-05-09,Frozen Semen Straw (FSS) - GIR,75.0,9,5,5,7
+2026-05-09,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,74.0,9,5,5,8
+2026-05-09,Liquid Nitrogen (LN2) ,55.0,9,5,5,11
+2026-05-11,AI Gloves (50 Pcs Packet) - 2024,8.0,11,5,0,0
+2026-05-11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),16.0,11,5,0,3
+2026-05-11,Cryo Container  - BA-3 - 2025,1.0,11,5,0,4
+2026-05-11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),264.0,11,5,0,5
+2026-05-11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),320.0,11,5,0,6
+2026-05-11,Frozen Semen Straw (FSS) - GIR,260.0,11,5,0,7
+2026-05-11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,190.0,11,5,0,8
+2026-05-11,Frozen Semen Straw (FSS) Buffalo Murrah,20.0,11,5,0,9
+2026-05-11,Liquid Nitrogen (LN2) ,217.0,11,5,0,11
+2026-05-12,AI Gloves (50 Pcs Packet) - 2024,27.0,12,5,1,0
+2026-05-12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),44.0,12,5,1,3
+2026-05-12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),530.0,12,5,1,5
+2026-05-12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),848.0,12,5,1,6
+2026-05-12,Frozen Semen Straw (FSS) - GIR,780.0,12,5,1,7
+2026-05-12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,504.0,12,5,1,8
+2026-05-12,Frozen Semen Straw (FSS) Buffalo Murrah,50.0,12,5,1,9
+2026-05-12,Liquid Nitrogen (LN2) ,705.0,12,5,1,11
+2026-05-13,AI Gloves (50 Pcs Packet) - 2024,10.0,13,5,2,0
+2026-05-13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),21.0,13,5,2,3
+2026-05-13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),222.0,13,5,2,5
+2026-05-13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),489.0,13,5,2,6
+2026-05-13,Frozen Semen Straw (FSS) - GIR,402.0,13,5,2,7
+2026-05-13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,125.0,13,5,2,8
+2026-05-13,Frozen Semen Straw (FSS) Buffalo Murrah,25.0,13,5,2,9
+2026-05-13,Liquid Nitrogen (LN2) ,488.0,13,5,2,11
+2026-05-14,AI Gloves (50 Pcs Packet) - 2024,2.0,14,5,3,0
+2026-05-14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,14,5,3,3
+2026-05-14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),30.0,14,5,3,5
+2026-05-14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),70.0,14,5,3,6
+2026-05-14,Frozen Semen Straw (FSS) - GIR,35.0,14,5,3,7
+2026-05-14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,50.0,14,5,3,8
+2026-05-14,Liquid Nitrogen (LN2) ,38.0,14,5,3,11
+2026-05-15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),1.0,15,5,4,3
+2026-05-15,Cryo Container  - BA-3 - 2025,2.0,15,5,4,4
+2026-05-15,Frozen Semen Straw (FSS) - GIR,20.0,15,5,4,7
+2026-05-15,Liquid Nitrogen (LN2) ,22.0,15,5,4,11
+2026-05-18,AI Gloves (50 Pcs Packet) - 2024,3.0,18,5,0,0
+2026-05-18,AI Sheath - for 0.25 ml straw (50 Pcs Packet),10.0,18,5,0,3
+2026-05-18,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),99.0,18,5,0,5
+2026-05-18,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),140.0,18,5,0,6
+2026-05-18,Frozen Semen Straw (FSS) - GIR,172.0,18,5,0,7
+2026-05-18,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,70.0,18,5,0,8
+2026-05-18,Frozen Semen Straw (FSS) Buffalo Murrah,20.0,18,5,0,9
+2026-05-18,Liquid Nitrogen (LN2) ,262.0,18,5,0,11
+2026-05-19,AI Gloves (50 Pcs Packet) - 2024,4.0,19,5,1,0
+2026-05-19,AI Sheath - for 0.25 ml straw (50 Pcs Packet),10.0,19,5,1,3
+2026-05-19,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),190.0,19,5,1,5
+2026-05-19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),260.0,19,5,1,6
+2026-05-19,Frozen Semen Straw (FSS) - GIR,158.0,19,5,1,7
+2026-05-19,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,119.0,19,5,1,8
+2026-05-19,Liquid Nitrogen (LN2) ,276.0,19,5,1,11
+2026-05-19,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),30.0,19,5,1,16
+2026-05-19,Thaw Monitor,1.0,19,5,1,17
+2026-05-20,AI Gloves (50 Pcs Packet) - 2024,23.0,20,5,2,0
+2026-05-20,AI Gun (for 0.25 ml straw) with Container_2024,1.0,20,5,2,1
+2026-05-20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),21.0,20,5,2,3
+2026-05-20,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),345.0,20,5,2,5
+2026-05-20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),264.0,20,5,2,6
+2026-05-20,Frozen Semen Straw (FSS) - GIR,356.0,20,5,2,7
+2026-05-20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,144.0,20,5,2,8
+2026-05-20,Frozen Semen Straw (FSS) Buffalo Murrah,80.0,20,5,2,9
+2026-05-20,Liquid Nitrogen (LN2) ,486.0,20,5,2,11
+2026-05-21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,21,5,3,3
+2026-05-21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),15.0,21,5,3,5
+2026-05-21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),45.0,21,5,3,6
+2026-05-21,Frozen Semen Straw (FSS) - GIR,15.0,21,5,3,7
+2026-05-21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,20.0,21,5,3,8
+2026-05-21,Liquid Nitrogen (LN2) ,26.0,21,5,3,11
+2026-05-22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),20.0,22,5,4,6
+2026-05-22,Liquid Nitrogen (LN2) ,7.0,22,5,4,11
+2026-05-25,AI Gloves (50 Pcs Packet) - 2024,8.0,25,5,0,0
+2026-05-25,AI Sheath - for 0.25 ml straw (50 Pcs Packet),19.0,25,5,0,3
+2026-05-25,Cryo Container  - BA-3 - 2025,2.0,25,5,0,4
+2026-05-25,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),225.0,25,5,0,5
+2026-05-25,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),404.0,25,5,0,6
+2026-05-25,Frozen Semen Straw (FSS) - GIR,546.0,25,5,0,7
+2026-05-25,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,180.0,25,5,0,8
+2026-05-25,Frozen Semen Straw (FSS) Buffalo Murrah,20.0,25,5,0,9
+2026-05-25,Liquid Nitrogen (LN2) ,447.0,25,5,0,11
+2026-05-25,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),70.0,25,5,0,16
+2026-05-26,AI Gloves (50 Pcs Packet) - 2024,3.0,26,5,1,0
+2026-05-26,AI Gun (for 0.25 ml straw) with Container_2024,1.0,26,5,1,1
+2026-05-26,AI Sheath - for 0.25 ml straw (50 Pcs Packet),11.0,26,5,1,3
+2026-05-26,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),107.0,26,5,1,5
+2026-05-26,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),144.0,26,5,1,6
+2026-05-26,Frozen Semen Straw (FSS) - GIR,82.0,26,5,1,7
+2026-05-26,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,67.0,26,5,1,8
+2026-05-26,Liquid Nitrogen (LN2) ,427.0,26,5,1,11
+2026-05-26,Sex Sorted Semen Straw (SS) Cross Breed Jersey (CBJ),10.0,26,5,1,14
+2026-05-27,AI Gloves (50 Pcs Packet) - 2024,4.0,27,5,2,0
+2026-05-27,AI Sheath - for 0.25 ml straw (50 Pcs Packet),16.0,27,5,2,3
+2026-05-27,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),130.0,27,5,2,5
+2026-05-27,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),130.0,27,5,2,6
+2026-05-27,Frozen Semen Straw (FSS) - GIR,156.0,27,5,2,7
+2026-05-27,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,130.0,27,5,2,8
+2026-05-27,Frozen Semen Straw (FSS) Buffalo Murrah,100.0,27,5,2,9
+2026-05-27,Liquid Nitrogen (LN2) ,371.0,27,5,2,11
+2026-05-28,AI Gloves (50 Pcs Packet) - 2024,1.0,28,5,3,0
+2026-05-28,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3.0,28,5,3,3
+2026-05-28,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),10.0,28,5,3,5
+2026-05-28,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),20.0,28,5,3,6
+2026-05-28,Frozen Semen Straw (FSS) Buffalo Murrah,100.0,28,5,3,9
+2026-05-28,Liquid Nitrogen (LN2) ,49.0,28,5,3,11
+2026-05-29,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,29,5,4,3
+2026-05-29,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),46.0,29,5,4,5
+2026-05-29,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),20.0,29,5,4,6
+2026-05-29,Frozen Semen Straw (FSS) - GIR,32.0,29,5,4,7
+2026-05-29,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,71.0,29,5,4,8
+2026-05-29,Frozen Semen Straw (FSS) Buffalo Murrah,10.0,29,5,4,9
+2026-05-29,Liquid Nitrogen (LN2) ,85.0,29,5,4,11
+2026-05-30,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,25.0,30,5,5,8
+2026-05-30,Liquid Nitrogen (LN2) ,10.0,30,5,5,11
+2026-05-31,AI Sheath - for 0.25 ml straw (50 Pcs Packet),1.0,31,5,6,3
+2026-05-31,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),98.0,31,5,6,5
+2026-05-31,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),15.0,31,5,6,6
+2026-05-31,Frozen Semen Straw (FSS) - GIR,40.0,31,5,6,7
+2026-05-31,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,55.0,31,5,6,8
+2026-05-31,Liquid Nitrogen (LN2) ,18.0,31,5,6,11
+2026-06-01,AI Gloves (50 Pcs Packet) - 2024,18.0,1,6,0,0
+2026-06-01,AI Sheath - for 0.25 ml straw (50 Pcs Packet),28.0,1,6,0,3
+2026-06-01,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),290.0,1,6,0,5
+2026-06-01,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),408.0,1,6,0,6
+2026-06-01,Frozen Semen Straw (FSS) - GIR,401.0,1,6,0,7
+2026-06-01,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,429.0,1,6,0,8
+2026-06-01,Frozen Semen Straw (FSS) Buffalo Murrah,40.0,1,6,0,9
+2026-06-01,Liquid Nitrogen (LN2) ,496.0,1,6,0,11
+2026-06-01,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),10.0,1,6,0,16
+2026-06-02,AI Gloves (50 Pcs Packet) - 2024,5.0,2,6,1,0
+2026-06-02,AI Sheath - for 0.25 ml straw (50 Pcs Packet),23.0,2,6,1,3
+2026-06-02,Cryo Container  - BA-3 - 2025,1.0,2,6,1,4
+2026-06-02,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),165.0,2,6,1,5
+2026-06-02,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),278.0,2,6,1,6
+2026-06-02,Frozen Semen Straw (FSS) - GIR,421.0,2,6,1,7
+2026-06-02,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,286.0,2,6,1,8
+2026-06-02,Liquid Nitrogen (LN2) ,220.0,2,6,1,11
+2026-06-02,Thaw Monitor,2.0,2,6,1,17
+2026-06-03,AI Gloves (50 Pcs Packet) - 2024,6.0,3,6,2,0
+2026-06-03,AI Gun (for 0.25 ml straw) with Container_2024,1.0,3,6,2,1
+2026-06-03,AI Sheath - for 0.25 ml straw (50 Pcs Packet),44.0,3,6,2,3
+2026-06-03,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),618.0,3,6,2,5
+2026-06-03,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),493.0,3,6,2,6
+2026-06-03,Frozen Semen Straw (FSS) - GIR,708.0,3,6,2,7
+2026-06-03,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,537.0,3,6,2,8
+2026-06-03,Frozen Semen Straw (FSS) Buffalo Murrah,105.0,3,6,2,9
+2026-06-03,Liquid Nitrogen (LN2) ,565.0,3,6,2,11
+2026-06-04,AI Gloves (50 Pcs Packet) - 2024,1.0,4,6,3,0
+2026-06-04,AI Sheath - for 0.25 ml straw (50 Pcs Packet),6.0,4,6,3,3
+2026-06-04,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),20.0,4,6,3,5
+2026-06-04,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),100.0,4,6,3,6
+2026-06-04,Frozen Semen Straw (FSS) - GIR,62.0,4,6,3,7
+2026-06-04,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,40.0,4,6,3,8
+2026-06-04,Liquid Nitrogen (LN2) ,94.0,4,6,3,11
+2026-06-05,Liquid Nitrogen (LN2) ,6.0,5,6,4,11
+2026-06-06,AI Gloves (50 Pcs Packet) - 2024,1.0,6,6,5,0
+2026-06-06,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3.0,6,6,5,3
+2026-06-06,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),40.0,6,6,5,5
+2026-06-06,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),40.0,6,6,5,6
+2026-06-06,Frozen Semen Straw (FSS) - GIR,40.0,6,6,5,7
+2026-06-06,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,40.0,6,6,5,8
+2026-06-06,Liquid Nitrogen (LN2) ,16.0,6,6,5,11
+2026-06-08,AI Gloves (50 Pcs Packet) - 2024,6.0,8,6,0,0
+2026-06-08,AI Sheath - for 0.25 ml straw (50 Pcs Packet),16.0,8,6,0,3
+2026-06-08,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),155.0,8,6,0,5
+2026-06-08,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),321.0,8,6,0,6
+2026-06-08,Frozen Semen Straw (FSS) - GIR,215.0,8,6,0,7
+2026-06-08,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,160.0,8,6,0,8
+2026-06-08,Frozen Semen Straw (FSS) Buffalo Murrah,29.0,8,6,0,9
+2026-06-08,Liquid Nitrogen (LN2) ,230.0,8,6,0,11
+2026-06-09,AI Gloves (50 Pcs Packet) - 2024,1.0,9,6,1,0
+2026-06-09,AI Gun (for 0.25 ml straw) with Container_2024,2.0,9,6,1,1
+2026-06-09,AI Sheath - for 0.25 ml straw (50 Pcs Packet),7.0,9,6,1,3
+2026-06-09,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),152.0,9,6,1,5
+2026-06-09,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),182.0,9,6,1,6
+2026-06-09,Frozen Semen Straw (FSS) - GIR,184.0,9,6,1,7
+2026-06-09,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,94.0,9,6,1,8
+2026-06-09,Liquid Nitrogen (LN2) ,168.0,9,6,1,11
+2026-06-10,AI Gloves (50 Pcs Packet) - 2024,9.0,10,6,2,0
+2026-06-10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),36.0,10,6,2,3
+2026-06-10,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),341.0,10,6,2,5
+2026-06-10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),461.0,10,6,2,6
+2026-06-10,Frozen Semen Straw (FSS) - GIR,492.0,10,6,2,7
+2026-06-10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,405.0,10,6,2,8
+2026-06-10,Frozen Semen Straw (FSS) Buffalo Murrah,130.0,10,6,2,9
+2026-06-10,Liquid Nitrogen (LN2) ,520.0,10,6,2,11
+2026-06-11,AI Gun (for 0.25 ml straw) with Container_2025,1.0,11,6,3,2
+2026-06-11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),6.0,11,6,3,3
+2026-06-11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),7.0,11,6,3,5
+2026-06-11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),245.0,11,6,3,6
+2026-06-11,Frozen Semen Straw (FSS) - GIR,72.0,11,6,3,7
+2026-06-11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,42.0,11,6,3,8
+2026-06-11,Liquid Nitrogen (LN2) ,87.0,11,6,3,11
+2026-06-12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),1.0,12,6,4,3
+2026-06-12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5.0,12,6,4,5
+2026-06-12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),52.0,12,6,4,6
+2026-06-12,Frozen Semen Straw (FSS) - GIR,41.0,12,6,4,7
+2026-06-12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,32.0,12,6,4,8
+2026-06-12,Liquid Nitrogen (LN2) ,67.0,12,6,4,11
+2026-06-14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),1.0,14,6,6,3
+2026-06-14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),10.0,14,6,6,5
+2026-06-14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),10.0,14,6,6,6
+2026-06-14,Frozen Semen Straw (FSS) - GIR,10.0,14,6,6,7
+2026-06-14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,10.0,14,6,6,8
+2026-06-14,Liquid Nitrogen (LN2) ,3.0,14,6,6,11
+2026-06-15,AI Gloves (50 Pcs Packet) - 2024,18.0,15,6,0,0
+2026-06-15,AI Gun (for 0.25 ml straw) with Container_2024,1.0,15,6,0,1
+2026-06-15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),35.0,15,6,0,3
+2026-06-15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),367.0,15,6,0,5
+2026-06-15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),650.0,15,6,0,6
+2026-06-15,Frozen Semen Straw (FSS) - GIR,530.0,15,6,0,7
+2026-06-15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,431.0,15,6,0,8
+2026-06-15,Frozen Semen Straw (FSS) Buffalo Murrah,54.0,15,6,0,9
+2026-06-15,Liquid Nitrogen (LN2) ,495.0,15,6,0,11
+2026-06-16,AI Gloves (50 Pcs Packet) - 2024,1.0,16,6,1,0
+2026-06-16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),14.0,16,6,1,3
+2026-06-16,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),190.0,16,6,1,5
+2026-06-16,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),160.0,16,6,1,6
+2026-06-16,Frozen Semen Straw (FSS) - GIR,103.0,16,6,1,7
+2026-06-16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,84.0,16,6,1,8
+2026-06-16,Frozen Semen Straw (FSS) Buffalo Murrah,8.0,16,6,1,9
+2026-06-16,Liquid Nitrogen (LN2) ,256.0,16,6,1,11
+2026-06-16,Sex Sorted Semen Straw (SS) Cross Breed Holstein (CBHF) ,23.0,16,6,1,13
+2026-06-16,Sex Sorted Semen Straw (SS) Cross Breed Jersey (CBJ),80.0,16,6,1,14
+2026-06-16,Sex Sorted Semen Straw (SS) GIR ,20.0,16,6,1,15
+2026-06-16,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),13.0,16,6,1,16
+2026-06-17,AI Gloves (50 Pcs Packet) - 2024,7.0,17,6,2,0
+2026-06-17,AI Gun (for 0.25 ml straw) with Container_2024,1.0,17,6,2,1
+2026-06-17,AI Sheath - for 0.25 ml straw (50 Pcs Packet),22.0,17,6,2,3
+2026-06-17,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),320.0,17,6,2,5
+2026-06-17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),217.0,17,6,2,6
+2026-06-17,Frozen Semen Straw (FSS) - GIR,268.0,17,6,2,7
+2026-06-17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,180.0,17,6,2,8
+2026-06-17,Frozen Semen Straw (FSS) Buffalo Murrah,80.0,17,6,2,9
+2026-06-17,Liquid Nitrogen (LN2) ,453.0,17,6,2,11
+2026-06-18,AI Sheath - for 0.25 ml straw (50 Pcs Packet),1.0,18,6,3,3
+2026-06-18,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),23.0,18,6,3,5
+2026-06-18,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),80.0,18,6,3,6
+2026-06-18,Frozen Semen Straw (FSS) - GIR,36.0,18,6,3,7
+2026-06-18,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,27.0,18,6,3,8
+2026-06-18,Frozen Semen Straw (FSS) Buffalo Murrah,20.0,18,6,3,9
+2026-06-18,Liquid Nitrogen (LN2) ,42.0,18,6,3,11
+2026-06-19,AI Gloves (50 Pcs Packet) - 2024,2.0,19,6,4,0
+2026-06-19,AI Sheath - for 0.25 ml straw (50 Pcs Packet),2.0,19,6,4,3
+2026-06-19,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5.0,19,6,4,5
+2026-06-19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),55.0,19,6,4,6
+2026-06-19,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,50.0,19,6,4,8
+2026-06-19,Frozen Semen Straw (FSS) Buffalo Murrah,10.0,19,6,4,9
+2026-06-19,Liquid Nitrogen (LN2) ,70.0,19,6,4,11
+2026-06-22,AI Gloves (50 Pcs Packet) - 2024,8.0,22,6,0,0
+2026-06-22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),20.0,22,6,0,3
+2026-06-22,Cryo Container  - BA-3 - 2025,2.0,22,6,0,4
+2026-06-22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),267.0,22,6,0,5
+2026-06-22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),424.0,22,6,0,6
+2026-06-22,Frozen Semen Straw (FSS) - GIR,385.0,22,6,0,7
+2026-06-22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,195.0,22,6,0,8
+2026-06-22,Frozen Semen Straw (FSS) Buffalo Murrah,14.0,22,6,0,9
+2026-06-22,Liquid Nitrogen (LN2) ,379.0,22,6,0,11
+2026-06-23,AI Gloves (50 Pcs Packet) - 2024,5.0,23,6,1,0
+2026-06-23,AI Gun (for 0.25 ml straw) with Container_2024,2.0,23,6,1,1
+2026-06-23,AI Gun (for 0.25 ml straw) with Container_2025,1.0,23,6,1,2
+2026-06-23,AI Sheath - for 0.25 ml straw (50 Pcs Packet),20.0,23,6,1,3
+2026-06-23,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),191.0,23,6,1,5
+2026-06-23,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),190.0,23,6,1,6
+2026-06-23,Frozen Semen Straw (FSS) - GIR,261.0,23,6,1,7
+2026-06-23,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,137.0,23,6,1,8
+2026-06-23,Goblet (35 X 118mm)_2023,16.0,23,6,1,10
+2026-06-23,Liquid Nitrogen (LN2) ,454.0,23,6,1,11
+2026-06-24,AI Gloves (50 Pcs Packet) - 2024,6.0,24,6,2,0
+2026-06-24,AI Sheath - for 0.25 ml straw (50 Pcs Packet),16.0,24,6,2,3
+2026-06-24,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),196.0,24,6,2,5
+2026-06-24,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),216.0,24,6,2,6
+2026-06-24,Frozen Semen Straw (FSS) - GIR,147.0,24,6,2,7
+2026-06-24,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,140.0,24,6,2,8
+2026-06-24,Frozen Semen Straw (FSS) Buffalo Murrah,70.0,24,6,2,9
+2026-06-24,Liquid Nitrogen (LN2) ,302.0,24,6,2,11
+2026-06-25,AI Gloves (50 Pcs Packet) - 2024,10.0,25,6,3,0
+2026-06-25,AI Sheath - for 0.25 ml straw (50 Pcs Packet),11.0,25,6,3,3
+2026-06-25,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),75.0,25,6,3,5
+2026-06-25,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),175.0,25,6,3,6
+2026-06-25,Frozen Semen Straw (FSS) - GIR,80.0,25,6,3,7
+2026-06-25,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,50.0,25,6,3,8
+2026-06-25,Goblet (35 X 118mm)_2023,4.0,25,6,3,10
+2026-06-25,Liquid Nitrogen (LN2) ,165.0,25,6,3,11
+2026-06-25,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),10.0,25,6,3,16
+2026-06-27,AI Sheath - for 0.25 ml straw (50 Pcs Packet),1.0,27,6,5,3
+2026-06-27,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),20.0,27,6,5,5
+2026-06-27,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),46.0,27,6,5,6
+2026-06-27,Frozen Semen Straw (FSS) - GIR,24.0,27,6,5,7
+2026-06-27,Liquid Nitrogen (LN2) ,26.0,27,6,5,11
+2026-06-29,AI Gloves (50 Pcs Packet) - 2024,9.0,29,6,0,0
+2026-06-29,AI Sheath - for 0.25 ml straw (50 Pcs Packet),13.0,29,6,0,3
+2026-06-29,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),100.0,29,6,0,5
+2026-06-29,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),201.0,29,6,0,6
+2026-06-29,Frozen Semen Straw (FSS) - GIR,100.0,29,6,0,7
+2026-06-29,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,101.0,29,6,0,8
+2026-06-29,Frozen Semen Straw (FSS) Buffalo Murrah,50.0,29,6,0,9
+2026-06-29,Goblet (35 X 118mm)_2023,4.0,29,6,0,10
+2026-06-29,Liquid Nitrogen (LN2) ,154.0,29,6,0,11
+2026-06-29,Sex Sorted Semen Straw (SS) GIR ,10.0,29,6,0,15
+2026-06-29,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),100.0,29,6,0,16
+2026-06-30,AI Gloves (50 Pcs Packet) - 2024,5.0,30,6,1,0
+2026-06-30,AI Sheath - for 0.25 ml straw (50 Pcs Packet),7.0,30,6,1,3
+2026-06-30,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),105.0,30,6,1,5
+2026-06-30,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),133.0,30,6,1,6
+2026-06-30,Frozen Semen Straw (FSS) - GIR,112.0,30,6,1,7
+2026-06-30,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,120.0,30,6,1,8
+2026-06-30,Frozen Semen Straw (FSS) Buffalo Murrah,10.0,30,6,1,9
+2026-06-30,Liquid Nitrogen (LN2) ,257.0,30,6,1,11
+2026-06-30,Thaw Monitor,1.0,30,6,1,17
+2026-07-01,AI Gloves (50 Pcs Packet) - 2024,16.0,1,7,2,0
+2026-07-01,AI Sheath - for 0.25 ml straw (50 Pcs Packet),42.0,1,7,2,3
+2026-07-01,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),649.0,1,7,2,5
+2026-07-01,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),429.0,1,7,2,6
+2026-07-01,Frozen Semen Straw (FSS) - GIR,735.0,1,7,2,7
+2026-07-01,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,362.0,1,7,2,8
+2026-07-01,Frozen Semen Straw (FSS) Buffalo Murrah,120.0,1,7,2,9
+2026-07-01,Goblet (35 X 118mm)_2023,23.0,1,7,2,10
+2026-07-01,Liquid Nitrogen (LN2) ,547.0,1,7,2,11
+2026-07-02,AI Gloves (50 Pcs Packet) - 2024,2.0,2,7,3,0
+2026-07-02,AI Sheath - for 0.25 ml straw (50 Pcs Packet),8.0,2,7,3,3
+2026-07-02,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),37.0,2,7,3,5
+2026-07-02,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),55.0,2,7,3,6
+2026-07-02,Frozen Semen Straw (FSS) - GIR,218.0,2,7,3,7
+2026-07-02,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,92.0,2,7,3,8
+2026-07-02,Goblet (35 X 118mm)_2023,2.0,2,7,3,10
+2026-07-02,Liquid Nitrogen (LN2) ,103.0,2,7,3,11
+2026-07-02,Premium Quality Semen Straw- Pure Jersey (Pr. PJ),50.0,2,7,3,12
+2026-07-03,AI Gloves (50 Pcs Packet) - 2024,6.0,3,7,4,0
+2026-07-03,AI Sheath - for 0.25 ml straw (50 Pcs Packet),19.0,3,7,4,3
+2026-07-03,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),220.0,3,7,4,5
+2026-07-03,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),83.0,3,7,4,6
+2026-07-03,Frozen Semen Straw (FSS) - GIR,41.0,3,7,4,7
+2026-07-03,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,182.0,3,7,4,8
+2026-07-03,Liquid Nitrogen (LN2) ,71.0,3,7,4,11
+2026-07-04,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6.0,4,7,5,6
+2026-07-04,Frozen Semen Straw (FSS) - GIR,8.0,4,7,5,7
+2026-07-04,Liquid Nitrogen (LN2) ,12.0,4,7,5,11
+2026-07-07,AI Gloves (50 Pcs Packet) - 2024,11.0,7,7,1,0
+2026-07-07,AI Sheath - for 0.25 ml straw (50 Pcs Packet),31.0,7,7,1,3
+2026-07-07,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),554.0,7,7,1,5
+2026-07-07,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),574.0,7,7,1,6
+2026-07-07,Frozen Semen Straw (FSS) - GIR,628.0,7,7,1,7
+2026-07-07,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,327.0,7,7,1,8
+2026-07-07,Frozen Semen Straw (FSS) Buffalo Murrah,62.0,7,7,1,9
+2026-07-07,Goblet (35 X 118mm)_2023,1.0,7,7,1,10
+2026-07-07,Liquid Nitrogen (LN2) ,408.0,7,7,1,11
+2026-07-08,AI Gloves (50 Pcs Packet) - 2024,20.0,8,7,2,0
+2026-07-08,AI Sheath - for 0.25 ml straw (50 Pcs Packet),44.0,8,7,2,3
+2026-07-08,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),332.0,8,7,2,5
+2026-07-08,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),531.0,8,7,2,6
+2026-07-08,Frozen Semen Straw (FSS) - GIR,641.0,8,7,2,7
+2026-07-08,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,269.0,8,7,2,8
+2026-07-08,Frozen Semen Straw (FSS) Buffalo Murrah,220.0,8,7,2,9
+2026-07-08,Goblet (35 X 118mm)_2023,7.0,8,7,2,10
+2026-07-08,Liquid Nitrogen (LN2) ,543.0,8,7,2,11
+2026-07-08,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),30.0,8,7,2,16

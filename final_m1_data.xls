@@ -1,0 +1,1919 @@
+Sale Date,Office Name,Office_ID,Product,Product_ID,Qty,Day,Month,DayOfWeek
+2026-04-01,BEO BARASAT-II,4,AI Gloves (50 Pcs Packet) - 2024,0,2.0,1,4,2
+2026-04-01,BEO BARASAT-II,4,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,1,4,2
+2026-04-01,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,9.0,1,4,2
+2026-04-01,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,42.0,1,4,2
+2026-04-01,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,83.0,1,4,2
+2026-04-01,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,19.0,1,4,2
+2026-04-01,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,104.0,1,4,2
+2026-04-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,187.0,1,4,2
+2026-04-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,165.0,1,4,2
+2026-04-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,265.0,1,4,2
+2026-04-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,3.0,1,4,2
+2026-04-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,75.0,1,4,2
+2026-04-01,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,270.0,1,4,2
+2026-04-01,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,1,4,2
+2026-04-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,1,4,2
+2026-04-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,1,4,2
+2026-04-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,67.0,1,4,2
+2026-04-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,65.0,1,4,2
+2026-04-01,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,1,4,2
+2026-04-01,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,86.0,1,4,2
+2026-04-01,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,63.0,1,4,2
+2026-04-01,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,39.0,1,4,2
+2026-04-01,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,1,4,2
+2026-04-01,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,86.0,1,4,2
+2026-04-01,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,39.0,1,4,2
+2026-04-01,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,48.0,1,4,2
+2026-04-02,BEO AMDANGA,0,AI Gloves (50 Pcs Packet) - 2024,0,1.0,2,4,3
+2026-04-02,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,2,4,3
+2026-04-02,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,2,4,3
+2026-04-02,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,2,4,3
+2026-04-02,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,20.0,2,4,3
+2026-04-02,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,2,4,3
+2026-04-02,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,2.0,2,4,3
+2026-04-02,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,2,4,3
+2026-04-02,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,2,4,3
+2026-04-02,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,2,4,3
+2026-04-02,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,30.0,2,4,3
+2026-04-02,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,27.0,2,4,3
+2026-04-02,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,19.0,2,4,3
+2026-04-02,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,2,4,3
+2026-04-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,97.0,2,4,3
+2026-04-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,28.0,2,4,3
+2026-04-02,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,35.0,2,4,3
+2026-04-02,BEO SANDESHKHALI-II,20,AI Gloves (50 Pcs Packet) - 2024,0,3.0,2,4,3
+2026-04-02,BEO SANDESHKHALI-II,20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,2,4,3
+2026-04-02,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,38.0,2,4,3
+2026-04-02,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,2,4,3
+2026-04-02,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,27.0,2,4,3
+2026-04-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,2,4,3
+2026-04-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,25.0,2,4,3
+2026-04-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,10.0,2,4,3
+2026-04-02,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,52.0,2,4,3
+2026-04-05,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,2.0,5,4,6
+2026-04-05,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,5,4,6
+2026-04-05,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,131.0,5,4,6
+2026-04-05,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,81.0,5,4,6
+2026-04-05,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,99.0,5,4,6
+2026-04-05,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,126.0,5,4,6
+2026-04-05,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,60.0,5,4,6
+2026-04-06,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,6,4,0
+2026-04-06,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,6,4,0
+2026-04-06,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,10.0,6,4,0
+2026-04-06,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,6,4,0
+2026-04-06,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,3.0,6,4,0
+2026-04-06,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,1.0,6,4,0
+2026-04-06,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,6,4,0
+2026-04-06,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,6,4,0
+2026-04-06,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,6,4,0
+2026-04-06,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,40.0,6,4,0
+2026-04-06,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,65.0,6,4,0
+2026-04-06,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,107.0,6,4,0
+2026-04-06,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,47.0,6,4,0
+2026-04-06,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,51.0,6,4,0
+2026-04-06,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,34.0,6,4,0
+2026-04-06,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,45.0,6,4,0
+2026-04-06,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,30.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,3.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,65.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,150.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,70.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,6,4,0
+2026-04-06,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,114.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,5.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,87.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,69.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,69.0,6,4,0
+2026-04-06,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,43.0,6,4,0
+2026-04-06,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,3.0,6,4,0
+2026-04-06,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,6,4,0
+2026-04-06,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,50.0,6,4,0
+2026-04-06,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,60.0,6,4,0
+2026-04-06,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,70.0,6,4,0
+2026-04-06,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,55.0,6,4,0
+2026-04-06,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,36.0,6,4,0
+2026-04-06,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,6,4,0
+2026-04-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,6,4,0
+2026-04-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,220.0,6,4,0
+2026-04-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,80.0,6,4,0
+2026-04-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,6,4,0
+2026-04-06,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,37.0,6,4,0
+2026-04-07,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,12.0,7,4,1
+2026-04-07,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,21.0,7,4,1
+2026-04-07,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,240.0,7,4,1
+2026-04-07,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,360.0,7,4,1
+2026-04-07,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,210.0,7,4,1
+2026-04-07,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,225.0,7,4,1
+2026-04-07,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,113.0,7,4,1
+2026-04-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,15.0,7,4,1
+2026-04-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,5.0,7,4,1
+2026-04-07,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,3.0,7,4,1
+2026-04-07,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,3.0,7,4,1
+2026-04-07,BEO DEGANGA,10,AI Gun (for 0.25 ml straw) with Container_2025,2,1.0,7,4,1
+2026-04-07,BEO DEGANGA,10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,10.0,7,4,1
+2026-04-07,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,259.0,7,4,1
+2026-04-07,BEO DEGANGA,10,Frozen Semen Straw (FSS) - GIR,7,117.0,7,4,1
+2026-04-07,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,104.0,7,4,1
+2026-04-07,BEO DEGANGA,10,Goblet (35 X 118mm)_2023,10,1.0,7,4,1
+2026-04-07,BEO DEGANGA,10,Liquid Nitrogen (LN2) ,11,193.0,7,4,1
+2026-04-07,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,2.0,7,4,1
+2026-04-07,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,7,4,1
+2026-04-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,96.0,7,4,1
+2026-04-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,104.0,7,4,1
+2026-04-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,132.0,7,4,1
+2026-04-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,175.0,7,4,1
+2026-04-07,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,90.0,7,4,1
+2026-04-07,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,7,4,1
+2026-04-07,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,7,4,1
+2026-04-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,7,4,1
+2026-04-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,7,4,1
+2026-04-07,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,52.0,7,4,1
+2026-04-08,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,4.0,8,4,2
+2026-04-08,BEO BARASAT-I,3,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,8,4,2
+2026-04-08,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,35.0,8,4,2
+2026-04-08,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,44.0,8,4,2
+2026-04-08,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,21.0,8,4,2
+2026-04-08,BEO BARASAT-I,3,Frozen Semen Straw (FSS) Buffalo Murrah,9,1.0,8,4,2
+2026-04-08,BEO BARASAT-I,3,Liquid Nitrogen (LN2) ,11,70.0,8,4,2
+2026-04-08,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,2.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,3.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,75.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,205.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,215.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,70.0,8,4,2
+2026-04-08,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,117.0,8,4,2
+2026-04-08,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,1.0,8,4,2
+2026-04-08,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,8,4,2
+2026-04-08,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,8,4,2
+2026-04-08,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,11.0,8,4,2
+2026-04-08,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,38.0,8,4,2
+2026-04-08,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,8,4,2
+2026-04-08,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,12.0,8,4,2
+2026-04-08,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,26.0,8,4,2
+2026-04-08,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,8,4,2
+2026-04-08,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,8,4,2
+2026-04-08,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,4.0,8,4,2
+2026-04-08,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,39.0,8,4,2
+2026-04-08,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,6.0,8,4,2
+2026-04-08,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,8,4,2
+2026-04-08,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,8,4,2
+2026-04-08,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,8,4,2
+2026-04-08,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,8,4,2
+2026-04-08,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,16.0,8,4,2
+2026-04-08,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,8,4,2
+2026-04-08,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,8,4,2
+2026-04-08,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,10.0,8,4,2
+2026-04-08,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,57.0,8,4,2
+2026-04-09,BEO BARRACKPUR-II,6,Sex Sorted Semen Straw (SS) Cross Breed Jersey (CBJ),14,1.0,9,4,3
+2026-04-09,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,10.0,9,4,3
+2026-04-09,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,9,4,3
+2026-04-09,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,45.0,9,4,3
+2026-04-09,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,9.0,9,4,3
+2026-04-10,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,10,4,4
+2026-04-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,10,4,4
+2026-04-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,10,4,4
+2026-04-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,15.0,10,4,4
+2026-04-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,40.0,10,4,4
+2026-04-10,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,42.0,10,4,4
+2026-04-13,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,13,4,0
+2026-04-13,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,58.0,13,4,0
+2026-04-13,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,79.0,13,4,0
+2026-04-13,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,53.0,13,4,0
+2026-04-13,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,13,4,0
+2026-04-13,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,51.0,13,4,0
+2026-04-13,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,5.0,13,4,0
+2026-04-13,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,13,4,0
+2026-04-13,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,13,4,0
+2026-04-13,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,70.0,13,4,0
+2026-04-13,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,220.0,13,4,0
+2026-04-13,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,90.0,13,4,0
+2026-04-13,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,104.0,13,4,0
+2026-04-13,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,10.0,13,4,0
+2026-04-13,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,13,4,0
+2026-04-13,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,22.0,13,4,0
+2026-04-13,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,31.0,13,4,0
+2026-04-13,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,5.0,13,4,0
+2026-04-13,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,24.0,13,4,0
+2026-04-13,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,27.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,1.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,8.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,77.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,20.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,13,4,0
+2026-04-13,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,36.0,13,4,0
+2026-04-13,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,3.0,13,4,0
+2026-04-13,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,118.0,13,4,0
+2026-04-13,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,15.0,13,4,0
+2026-04-13,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,41.0,13,4,0
+2026-04-13,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,45.0,13,4,0
+2026-04-13,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,4.0,13,4,0
+2026-04-13,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,31.0,13,4,0
+2026-04-13,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,56.0,13,4,0
+2026-04-13,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,2.0,13,4,0
+2026-04-13,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,13,4,0
+2026-04-13,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,13,4,0
+2026-04-13,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,65.0,13,4,0
+2026-04-13,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,65.0,13,4,0
+2026-04-13,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,45.0,13,4,0
+2026-04-13,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,35.0,13,4,0
+2026-04-13,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,13,4,0
+2026-04-13,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,13,4,0
+2026-04-13,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,9.0,13,4,0
+2026-04-13,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,3.0,13,4,0
+2026-04-13,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,13,4,0
+2026-04-13,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,13,4,0
+2026-04-13,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,13,4,0
+2026-04-13,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,13,4,0
+2026-04-13,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,13,4,0
+2026-04-13,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,33.0,13,4,0
+2026-04-13,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,1.0,13,4,0
+2026-04-13,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,13,4,0
+2026-04-13,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) Buffalo Murrah,9,10.0,13,4,0
+2026-04-13,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,77.0,13,4,0
+2026-04-14,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,3.0,14,4,1
+2026-04-14,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,14,4,1
+2026-04-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,14,4,1
+2026-04-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,105.0,14,4,1
+2026-04-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,45.0,14,4,1
+2026-04-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,75.0,14,4,1
+2026-04-14,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,113.0,14,4,1
+2026-04-14,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,1.0,14,4,1
+2026-04-14,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,14,4,1
+2026-04-14,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,59.0,14,4,1
+2026-04-14,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,42.0,14,4,1
+2026-04-14,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,14,4,1
+2026-04-14,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,28.0,14,4,1
+2026-04-16,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,1.0,16,4,3
+2026-04-16,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,37.0,16,4,3
+2026-04-16,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,66.0,16,4,3
+2026-04-16,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,24.0,16,4,3
+2026-04-16,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,16,4,3
+2026-04-16,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,80.0,16,4,3
+2026-04-16,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,170.0,16,4,3
+2026-04-16,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,150.0,16,4,3
+2026-04-16,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,120.0,16,4,3
+2026-04-16,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,114.0,16,4,3
+2026-04-16,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,16,4,3
+2026-04-16,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,16,4,3
+2026-04-16,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,100.0,16,4,3
+2026-04-16,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,95.0,16,4,3
+2026-04-16,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,75.0,16,4,3
+2026-04-16,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,84.0,16,4,3
+2026-04-16,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,105.0,16,4,3
+2026-04-16,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,89.0,16,4,3
+2026-04-16,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,1.0,16,4,3
+2026-04-16,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,16,4,3
+2026-04-16,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,62.0,16,4,3
+2026-04-16,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,41.0,16,4,3
+2026-04-16,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,16,4,3
+2026-04-16,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,5.0,16,4,3
+2026-04-16,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,16,4,3
+2026-04-16,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,15.0,16,4,3
+2026-04-16,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,16,4,3
+2026-04-16,BEO HAROA,14,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,16,4,3
+2026-04-16,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,16,4,3
+2026-04-16,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,17.0,16,4,3
+2026-04-16,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,16,4,3
+2026-04-16,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,15.0,16,4,3
+2026-04-16,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,16,4,3
+2026-04-16,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,40.0,16,4,3
+2026-04-16,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,16,4,3
+2026-04-16,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,29.0,16,4,3
+2026-04-16,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,16,4,3
+2026-04-16,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,61.0,16,4,3
+2026-04-16,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,30.0,16,4,3
+2026-04-16,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,76.0,16,4,3
+2026-04-16,BEO SANDESHKHALI-II,20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,16,4,3
+2026-04-16,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,8.0,16,4,3
+2026-04-16,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,13.0,16,4,3
+2026-04-16,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,16,4,3
+2026-04-16,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,10.0,16,4,3
+2026-04-17,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,5.0,17,4,4
+2026-04-17,BEO DEGANGA,10,AI Gun (for 0.25 ml straw) with Container_2025,2,1.0,17,4,4
+2026-04-17,BEO DEGANGA,10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,17,4,4
+2026-04-17,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,107.0,17,4,4
+2026-04-17,BEO DEGANGA,10,Frozen Semen Straw (FSS) - GIR,7,100.0,17,4,4
+2026-04-17,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,62.0,17,4,4
+2026-04-17,BEO DEGANGA,10,Goblet (35 X 118mm)_2023,10,2.0,17,4,4
+2026-04-17,BEO DEGANGA,10,Liquid Nitrogen (LN2) ,11,109.0,17,4,4
+2026-04-17,BEO DEGANGA,10,Thaw Monitor,17,2.0,17,4,4
+2026-04-17,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,1.0,17,4,4
+2026-04-17,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,17,4,4
+2026-04-17,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,17,4,4
+2026-04-17,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,27.0,17,4,4
+2026-04-17,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,2.0,17,4,4
+2026-04-17,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,12.0,17,4,4
+2026-04-17,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,20.0,17,4,4
+2026-04-17,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,17.0,17,4,4
+2026-04-17,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,90.0,17,4,4
+2026-04-17,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,17,4,4
+2026-04-17,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,1.0,17,4,4
+2026-04-17,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,80.0,17,4,4
+2026-04-17,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,15.0,17,4,4
+2026-04-17,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,17,4,4
+2026-04-17,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,66.0,17,4,4
+2026-04-20,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,1.0,20,4,0
+2026-04-20,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,20,4,0
+2026-04-20,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,20,4,0
+2026-04-20,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,20,4,0
+2026-04-20,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,145.0,20,4,0
+2026-04-20,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,70.0,20,4,0
+2026-04-20,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,108.0,20,4,0
+2026-04-20,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,9.0,20,4,0
+2026-04-20,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,9.0,20,4,0
+2026-04-20,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,20.0,20,4,0
+2026-04-20,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,2.0,20,4,0
+2026-04-20,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,21.0,20,4,0
+2026-04-20,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,20,4,0
+2026-04-20,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,49.0,20,4,0
+2026-04-20,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,23.0,20,4,0
+2026-04-20,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,77.0,20,4,0
+2026-04-20,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,48.0,20,4,0
+2026-04-20,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,2.0,20,4,0
+2026-04-20,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,20,4,0
+2026-04-20,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,20,4,0
+2026-04-20,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,20,4,0
+2026-04-20,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,60.0,20,4,0
+2026-04-20,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,20,4,0
+2026-04-20,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,36.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,20.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,Goblet (35 X 118mm)_2023,10,5.0,20,4,0
+2026-04-20,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,60.0,20,4,0
+2026-04-21,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,21,4,1
+2026-04-21,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,21,4,1
+2026-04-21,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,21,4,1
+2026-04-21,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,5.0,21,4,1
+2026-04-21,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,24.0,21,4,1
+2026-04-21,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,2.0,21,4,1
+2026-04-21,BEO BAGDA,2,AI Gun (for 0.25 ml straw) with Container_2024,1,2.0,21,4,1
+2026-04-21,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,21,4,1
+2026-04-21,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,4.0,21,4,1
+2026-04-21,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,120.0,21,4,1
+2026-04-21,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,46.0,21,4,1
+2026-04-21,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,21,4,1
+2026-04-21,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,119.0,21,4,1
+2026-04-21,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,21,4,1
+2026-04-21,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,10.0,21,4,1
+2026-04-21,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,6.0,21,4,1
+2026-04-21,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,2.0,21,4,1
+2026-04-21,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,21,4,1
+2026-04-21,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,55.0,21,4,1
+2026-04-21,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,25.0,21,4,1
+2026-04-21,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,21,4,1
+2026-04-21,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,48.0,21,4,1
+2026-04-21,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,1.0,21,4,1
+2026-04-21,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,19.0,21,4,1
+2026-04-21,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,21,4,1
+2026-04-21,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,25.0,21,4,1
+2026-04-21,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,15.0,21,4,1
+2026-04-21,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,21,4,1
+2026-04-21,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,31.0,21,4,1
+2026-04-21,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,8.0,21,4,1
+2026-04-21,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,13.0,21,4,1
+2026-04-21,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,50.0,21,4,1
+2026-04-21,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,2.0,21,4,1
+2026-04-21,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - GIR,7,25.0,21,4,1
+2026-04-21,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,21,4,1
+2026-04-21,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,1.0,21,4,1
+2026-04-21,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,34.0,21,4,1
+2026-04-22,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,5.0,22,4,2
+2026-04-22,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,15.0,22,4,2
+2026-04-22,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,156.0,22,4,2
+2026-04-22,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,22,4,2
+2026-04-22,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,75.0,22,4,2
+2026-04-22,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,86.0,22,4,2
+2026-04-22,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,1.0,22,4,2
+2026-04-22,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,22,4,2
+2026-04-22,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,62.0,22,4,2
+2026-04-22,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,4.0,22,4,2
+2026-04-22,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,80.0,22,4,2
+2026-04-22,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,116.0,22,4,2
+2026-04-22,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,22,4,2
+2026-04-22,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,18.0,22,4,2
+2026-04-22,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,22,4,2
+2026-04-22,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,40.0,22,4,2
+2026-04-22,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,22,4,2
+2026-04-22,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,22,4,2
+2026-04-22,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,22,4,2
+2026-04-22,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,5.0,22,4,2
+2026-04-22,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,11.0,22,4,2
+2026-04-22,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,42.0,22,4,2
+2026-04-23,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,23,4,3
+2026-04-23,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,3.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,2.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,50.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,23,4,3
+2026-04-23,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,75.0,23,4,3
+2026-04-23,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,8.0,23,4,3
+2026-04-23,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,23,4,3
+2026-04-23,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,23,4,3
+2026-04-23,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,23,4,3
+2026-04-23,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,23,4,3
+2026-04-23,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,20.0,23,4,3
+2026-04-23,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,23,4,3
+2026-04-23,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,30.0,23,4,3
+2026-04-23,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,23,4,3
+2026-04-23,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,23,4,3
+2026-04-23,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,23,4,3
+2026-04-23,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,15.0,23,4,3
+2026-04-23,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,23,4,3
+2026-04-23,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,77.0,23,4,3
+2026-04-24,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,24,4,4
+2026-04-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,24,4,4
+2026-04-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,20.0,24,4,4
+2026-04-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,1.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,5.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,24,4,4
+2026-04-24,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,27.0,24,4,4
+2026-04-24,BEO RAJARHAT,18,AI Gloves (50 Pcs Packet) - 2024,0,2.0,24,4,4
+2026-04-24,BEO RAJARHAT,18,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,24,4,4
+2026-04-24,BEO RAJARHAT,18,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,24,4,4
+2026-04-24,BEO RAJARHAT,18,Frozen Semen Straw (FSS) - GIR,7,92.0,24,4,4
+2026-04-24,BEO RAJARHAT,18,Liquid Nitrogen (LN2) ,11,90.0,24,4,4
+2026-04-27,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,27,4,0
+2026-04-27,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,27,4,0
+2026-04-27,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,27,4,0
+2026-04-27,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,105.0,27,4,0
+2026-04-27,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,120.0,27,4,0
+2026-04-27,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,111.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,AI Gloves (50 Pcs Packet) - 2024,0,7.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,12.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,38.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,115.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,27,4,0
+2026-04-27,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,144.0,27,4,0
+2026-04-27,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,27,4,0
+2026-04-27,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,27,4,0
+2026-04-27,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,19.0,27,4,0
+2026-04-27,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,8.0,27,4,0
+2026-04-27,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,24.0,27,4,0
+2026-04-27,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,30.0,27,4,0
+2026-04-27,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,27,4,0
+2026-04-27,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,27,4,0
+2026-04-27,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,27,4,0
+2026-04-27,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,10.0,27,4,0
+2026-04-27,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,50.0,27,4,0
+2026-04-27,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,1.0,27,4,0
+2026-04-27,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,27.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,33.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,35.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Sex Sorted Semen Straw (SS) GIR ,15,10.0,27,4,0
+2026-04-27,BEO HABRA-I,12,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,40.0,27,4,0
+2026-04-27,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,1.0,27,4,0
+2026-04-27,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,27,4,0
+2026-04-27,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,27,4,0
+2026-04-27,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,30.0,27,4,0
+2026-04-27,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,27,4,0
+2026-04-27,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,58.0,27,4,0
+2026-04-27,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,27,4,0
+2026-04-27,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,27,4,0
+2026-04-27,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,27,4,0
+2026-04-27,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,27,4,0
+2026-04-27,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,27,4,0
+2026-04-27,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,15.0,27,4,0
+2026-04-27,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,27,4,0
+2026-04-27,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,39.0,27,4,0
+2026-04-27,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,27,4,0
+2026-04-27,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,27,4,0
+2026-04-27,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,27,4,0
+2026-04-27,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,42.0,27,4,0
+2026-04-28,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,45.0,28,4,1
+2026-04-28,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,25.0,28,4,1
+2026-04-28,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,28,4,1
+2026-04-28,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,113.0,28,4,1
+2026-04-28,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,28,4,1
+2026-04-28,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,3.0,28,4,1
+2026-04-28,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,28,4,1
+2026-04-28,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,28,4,1
+2026-04-28,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,25.0,28,4,1
+2026-04-28,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,28,4,1
+2026-04-28,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,51.0,28,4,1
+2026-04-28,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,4.0,28,4,1
+2026-04-28,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,1.0,28,4,1
+2026-04-28,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,28,4,1
+2026-04-29,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,29,4,2
+2026-04-29,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,29,4,2
+2026-04-29,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,47.0,29,4,2
+2026-04-29,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,29,4,2
+2026-04-29,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,24.0,29,4,2
+2026-04-30,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,3.0,30,4,3
+2026-04-30,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,30,4,3
+2026-04-30,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,13.0,30,4,3
+2026-04-30,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,30,4,3
+2026-04-30,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,55.0,30,4,3
+2026-04-30,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,30,4,3
+2026-04-30,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,40.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,5.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,77.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,42.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,30.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,30,4,3
+2026-04-30,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,117.0,30,4,3
+2026-04-30,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,30,4,3
+2026-04-30,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,30,4,3
+2026-04-30,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,30,4,3
+2026-04-30,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,30,4,3
+2026-04-30,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,15.0,30,4,3
+2026-04-30,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,30,4,3
+2026-04-30,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,21.0,30,4,3
+2026-04-30,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,30,4,3
+2026-04-30,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,1.0,30,4,3
+2026-04-30,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,1.0,30,4,3
+2026-04-30,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,73.0,30,4,3
+2026-04-30,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,52.0,30,4,3
+2026-05-03,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,4.0,3,5,6
+2026-05-03,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,3,5,6
+2026-05-03,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,3,5,6
+2026-05-03,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,3,5,6
+2026-05-03,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,35.0,3,5,6
+2026-05-03,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,3,5,6
+2026-05-03,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,105.0,3,5,6
+2026-05-04,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,4,5,0
+2026-05-04,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,10.0,4,5,0
+2026-05-04,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,4.0,4,5,0
+2026-05-04,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,4,5,0
+2026-05-04,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,4,5,0
+2026-05-04,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,70.0,4,5,0
+2026-05-04,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,4,5,0
+2026-05-04,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,35.0,4,5,0
+2026-05-05,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,5,5,1
+2026-05-05,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,10.0,5,5,1
+2026-05-05,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,5,5,1
+2026-05-05,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,3.0,5,5,1
+2026-05-05,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,5,5,1
+2026-05-05,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,41.0,5,5,1
+2026-05-05,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,71.0,5,5,1
+2026-05-05,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,48.0,5,5,1
+2026-05-05,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,11.0,5,5,1
+2026-05-05,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,30.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,4.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,100.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,95.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,90.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,80.0,5,5,1
+2026-05-05,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,72.0,5,5,1
+2026-05-05,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,2.0,5,5,1
+2026-05-05,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,5,5,1
+2026-05-05,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,5,5,1
+2026-05-05,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,75.0,5,5,1
+2026-05-05,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,75.0,5,5,1
+2026-05-05,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,34.0,5,5,1
+2026-05-05,BEO SANDESHKHALI-II,20,AI Gloves (50 Pcs Packet) - 2024,0,1.0,5,5,1
+2026-05-05,BEO SANDESHKHALI-II,20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,5,5,1
+2026-05-05,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,22.0,5,5,1
+2026-05-05,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - GIR,7,76.0,5,5,1
+2026-05-05,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,28.0,5,5,1
+2026-05-05,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,5,5,1
+2026-05-05,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,5,5,1
+2026-05-05,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,90.0,5,5,1
+2026-05-05,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,105.0,5,5,1
+2026-05-05,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,75.0,5,5,1
+2026-05-05,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,5,5,1
+2026-05-05,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,38.0,5,5,1
+2026-05-06,BEO BARASAT-II,4,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,6,5,2
+2026-05-06,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,7.0,6,5,2
+2026-05-06,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,16.0,6,5,2
+2026-05-06,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,28.0,6,5,2
+2026-05-06,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,7.0,6,5,2
+2026-05-06,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,24.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,14.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,170.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,205.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,285.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,115.0,6,5,2
+2026-05-06,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,276.0,6,5,2
+2026-05-06,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,2.0,6,5,2
+2026-05-06,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,6,5,2
+2026-05-06,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,128.0,6,5,2
+2026-05-06,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,140.0,6,5,2
+2026-05-06,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,133.0,6,5,2
+2026-05-06,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,63.0,6,5,2
+2026-05-06,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,5.0,6,5,2
+2026-05-06,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,15.0,6,5,2
+2026-05-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,112.0,6,5,2
+2026-05-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,350.0,6,5,2
+2026-05-06,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,243.0,6,5,2
+2026-05-06,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,90.0,6,5,2
+2026-05-06,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,6,5,2
+2026-05-06,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,10.0,6,5,2
+2026-05-06,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,6,5,2
+2026-05-06,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,4.0,6,5,2
+2026-05-06,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,9.0,6,5,2
+2026-05-06,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,110.0,6,5,2
+2026-05-06,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,110.0,6,5,2
+2026-05-06,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,80.0,6,5,2
+2026-05-06,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,75.0,6,5,2
+2026-05-06,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,6,5,2
+2026-05-06,BEO HINGALGANJ,16,AI Gloves (50 Pcs Packet) - 2024,0,2.0,6,5,2
+2026-05-06,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,6,5,2
+2026-05-06,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,156.0,6,5,2
+2026-05-06,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,156.0,6,5,2
+2026-05-06,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,45.0,6,5,2
+2026-05-06,BEO MINAKHAN,17,AI Gloves (50 Pcs Packet) - 2024,0,1.0,6,5,2
+2026-05-06,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,6,5,2
+2026-05-06,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,86.0,6,5,2
+2026-05-06,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,34.0,6,5,2
+2026-05-06,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,48.0,6,5,2
+2026-05-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,6,5,2
+2026-05-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,6,5,2
+2026-05-06,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,6,5,2
+2026-05-06,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,3.0,6,5,2
+2026-05-06,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,6,5,2
+2026-05-06,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,6,5,2
+2026-05-06,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,35.0,6,5,2
+2026-05-07,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,7,5,3
+2026-05-07,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,15.0,7,5,3
+2026-05-07,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,12.0,7,5,3
+2026-05-07,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,1.0,7,5,3
+2026-05-07,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,7,5,3
+2026-05-07,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,9.0,7,5,3
+2026-05-07,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,3.0,7,5,3
+2026-05-07,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,7,5,3
+2026-05-07,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,7,5,3
+2026-05-07,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,87.0,7,5,3
+2026-05-07,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,30.0,7,5,3
+2026-05-07,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,7,5,3
+2026-05-07,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,23.0,7,5,3
+2026-05-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,7,5,3
+2026-05-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,20.0,7,5,3
+2026-05-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,7,5,3
+2026-05-07,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,105.0,7,5,3
+2026-05-08,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,2.0,8,5,4
+2026-05-09,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,1.0,9,5,5
+2026-05-09,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,9,5,5
+2026-05-09,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,95.0,9,5,5
+2026-05-09,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,95.0,9,5,5
+2026-05-09,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,55.0,9,5,5
+2026-05-09,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,9,5,5
+2026-05-09,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,34.0,9,5,5
+2026-05-09,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,9,5,5
+2026-05-09,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,9,5,5
+2026-05-09,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,20.0,9,5,5
+2026-05-09,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,24.0,9,5,5
+2026-05-09,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,21.0,9,5,5
+2026-05-11,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,3.0,11,5,0
+2026-05-11,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,11,5,0
+2026-05-11,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,65.0,11,5,0
+2026-05-11,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,11,5,0
+2026-05-11,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,40.0,11,5,0
+2026-05-11,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,11,5,0
+2026-05-11,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,66.0,11,5,0
+2026-05-11,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,11,5,0
+2026-05-11,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,11,5,0
+2026-05-11,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,11,5,0
+2026-05-11,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,5.0,11,5,0
+2026-05-11,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,11,5,0
+2026-05-11,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,24.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,2.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,50.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,35.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,11,5,0
+2026-05-11,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,45.0,11,5,0
+2026-05-11,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,3.0,11,5,0
+2026-05-11,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,11,5,0
+2026-05-11,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,64.0,11,5,0
+2026-05-11,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,65.0,11,5,0
+2026-05-11,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,110.0,11,5,0
+2026-05-11,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,65.0,11,5,0
+2026-05-11,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,33.0,11,5,0
+2026-05-11,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,11,5,0
+2026-05-11,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,70.0,11,5,0
+2026-05-11,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,11,5,0
+2026-05-11,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,70.0,11,5,0
+2026-05-11,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,11,5,0
+2026-05-11,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,49.0,11,5,0
+2026-05-11,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,1.0,11,5,0
+2026-05-12,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,12,5,1
+2026-05-12,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,12,5,1
+2026-05-12,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,12,5,1
+2026-05-12,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,25.0,12,5,1
+2026-05-12,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,27.0,12,5,1
+2026-05-12,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,3.0,12,5,1
+2026-05-12,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,12,5,1
+2026-05-12,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,85.0,12,5,1
+2026-05-12,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,145.0,12,5,1
+2026-05-12,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,195.0,12,5,1
+2026-05-12,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,95.0,12,5,1
+2026-05-12,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,106.0,12,5,1
+2026-05-12,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,7.0,12,5,1
+2026-05-12,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,11.0,12,5,1
+2026-05-12,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,175.0,12,5,1
+2026-05-12,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,255.0,12,5,1
+2026-05-12,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,200.0,12,5,1
+2026-05-12,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,155.0,12,5,1
+2026-05-12,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,113.0,12,5,1
+2026-05-12,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,12,5,1
+2026-05-12,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,12,5,1
+2026-05-12,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,30.0,12,5,1
+2026-05-12,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,12,5,1
+2026-05-12,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,50.0,12,5,1
+2026-05-12,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,12.0,12,5,1
+2026-05-12,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,13.0,12,5,1
+2026-05-12,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,8.0,12,5,1
+2026-05-12,BEO DEGANGA,10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,12.0,12,5,1
+2026-05-12,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,190.0,12,5,1
+2026-05-12,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,325.0,12,5,1
+2026-05-12,BEO DEGANGA,10,Frozen Semen Straw (FSS) - GIR,7,218.0,12,5,1
+2026-05-12,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,110.0,12,5,1
+2026-05-12,BEO DEGANGA,10,Liquid Nitrogen (LN2) ,11,276.0,12,5,1
+2026-05-12,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,1.0,12,5,1
+2026-05-12,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,12,5,1
+2026-05-12,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,55.0,12,5,1
+2026-05-12,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,85.0,12,5,1
+2026-05-12,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,12,5,1
+2026-05-12,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,52.0,12,5,1
+2026-05-12,BEO HASNABAD,15,AI Gloves (50 Pcs Packet) - 2024,0,1.0,12,5,1
+2026-05-12,BEO HINGALGANJ,16,AI Gloves (50 Pcs Packet) - 2024,0,6.0,12,5,1
+2026-05-12,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,12,5,1
+2026-05-12,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,14.0,12,5,1
+2026-05-12,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,36.0,12,5,1
+2026-05-12,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,68.0,12,5,1
+2026-05-12,BEO SANDESHKHALI-II,20,AI Gloves (50 Pcs Packet) - 2024,0,1.0,12,5,1
+2026-05-12,BEO SANDESHKHALI-II,20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,12,5,1
+2026-05-12,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - GIR,7,3.0,12,5,1
+2026-05-12,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,3.0,12,5,1
+2026-05-12,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,21.0,12,5,1
+2026-05-12,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,12,5,1
+2026-05-12,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,12,5,1
+2026-05-12,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,12,5,1
+2026-05-12,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,12,5,1
+2026-05-12,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,12,5,1
+2026-05-12,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,6.0,12,5,1
+2026-05-12,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,12,5,1
+2026-05-12,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,12,5,1
+2026-05-12,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,12,5,1
+2026-05-12,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,12,5,1
+2026-05-12,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,24.0,12,5,1
+2026-05-13,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,2.0,13,5,2
+2026-05-13,BEO BARASAT-I,3,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,13,5,2
+2026-05-13,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,80.0,13,5,2
+2026-05-13,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,3.0,13,5,2
+2026-05-13,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,13,5,2
+2026-05-13,BEO BARASAT-I,3,Liquid Nitrogen (LN2) ,11,56.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,AI Gloves (50 Pcs Packet) - 2024,0,2.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,24.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,31.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,13,5,2
+2026-05-13,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,26.0,13,5,2
+2026-05-13,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,13,5,2
+2026-05-13,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,13,5,2
+2026-05-13,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,13,5,2
+2026-05-13,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,25.0,13,5,2
+2026-05-13,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,2.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,90.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,250.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,260.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,55.0,13,5,2
+2026-05-13,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,144.0,13,5,2
+2026-05-13,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,13,5,2
+2026-05-13,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,57.0,13,5,2
+2026-05-13,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,13,5,2
+2026-05-13,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,51.0,13,5,2
+2026-05-13,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,73.0,13,5,2
+2026-05-13,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,2.0,13,5,2
+2026-05-13,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,13,5,2
+2026-05-13,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,13,5,2
+2026-05-13,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,13,5,2
+2026-05-13,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,12.0,13,5,2
+2026-05-13,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,118.0,13,5,2
+2026-05-13,BEO HASNABAD,15,AI Gloves (50 Pcs Packet) - 2024,0,2.0,13,5,2
+2026-05-13,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,13,5,2
+2026-05-13,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,13,5,2
+2026-05-13,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,13,5,2
+2026-05-13,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,20.0,13,5,2
+2026-05-13,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,13,5,2
+2026-05-13,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,13,5,2
+2026-05-13,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,13,5,2
+2026-05-13,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,13,5,2
+2026-05-13,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) Buffalo Murrah,9,5.0,13,5,2
+2026-05-13,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,35.0,13,5,2
+2026-05-14,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,14,5,3
+2026-05-14,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,14,5,3
+2026-05-14,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,5.0,14,5,3
+2026-05-14,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,15.0,14,5,3
+2026-05-14,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,1.0,14,5,3
+2026-05-14,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,14,5,3
+2026-05-14,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,14,5,3
+2026-05-14,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,14,5,3
+2026-05-14,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,55.0,14,5,3
+2026-05-14,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,30.0,14,5,3
+2026-05-14,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,14,5,3
+2026-05-14,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,20.0,14,5,3
+2026-05-14,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,3.0,14,5,3
+2026-05-15,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,15,5,4
+2026-05-15,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,20.0,15,5,4
+2026-05-15,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,15.0,15,5,4
+2026-05-15,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,2.0,15,5,4
+2026-05-15,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,7.0,15,5,4
+2026-05-18,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,1.0,18,5,0
+2026-05-18,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,18,5,0
+2026-05-18,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,50.0,18,5,0
+2026-05-18,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,18,5,0
+2026-05-18,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,95.0,18,5,0
+2026-05-18,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,18,5,0
+2026-05-18,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,106.0,18,5,0
+2026-05-18,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,24.0,18,5,0
+2026-05-18,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,18,5,0
+2026-05-18,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,12.0,18,5,0
+2026-05-18,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,18,5,0
+2026-05-18,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,21.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,1.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,55.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,15.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,18,5,0
+2026-05-18,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,39.0,18,5,0
+2026-05-18,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,1.0,18,5,0
+2026-05-18,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,18,5,0
+2026-05-18,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,50.0,18,5,0
+2026-05-18,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,18,5,0
+2026-05-18,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,39.0,18,5,0
+2026-05-18,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,18,5,0
+2026-05-18,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,57.0,18,5,0
+2026-05-19,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,19,5,1
+2026-05-19,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,19,5,1
+2026-05-19,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,19,5,1
+2026-05-19,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,25.0,19,5,1
+2026-05-19,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,19,5,1
+2026-05-19,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,27.0,19,5,1
+2026-05-19,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,19,5,1
+2026-05-19,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,19,5,1
+2026-05-19,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,19,5,1
+2026-05-19,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,20.0,19,5,1
+2026-05-19,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,19,5,1
+2026-05-19,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,3.0,19,5,1
+2026-05-19,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,2.0,19,5,1
+2026-05-19,BEO DEGANGA,10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,19,5,1
+2026-05-19,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,65.0,19,5,1
+2026-05-19,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,95.0,19,5,1
+2026-05-19,BEO DEGANGA,10,Frozen Semen Straw (FSS) - GIR,7,42.0,19,5,1
+2026-05-19,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,19,5,1
+2026-05-19,BEO DEGANGA,10,Liquid Nitrogen (LN2) ,11,12.0,19,5,1
+2026-05-19,BEO DEGANGA,10,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,30.0,19,5,1
+2026-05-19,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,2.0,19,5,1
+2026-05-19,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,19,5,1
+2026-05-19,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,80.0,19,5,1
+2026-05-19,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,19,5,1
+2026-05-19,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,55.0,19,5,1
+2026-05-19,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,65.0,19,5,1
+2026-05-19,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,41.0,19,5,1
+2026-05-19,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,6.0,19,5,1
+2026-05-19,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,14.0,19,5,1
+2026-05-19,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,50.0,19,5,1
+2026-05-19,BEO HINGALGANJ,16,Thaw Monitor,17,1.0,19,5,1
+2026-05-19,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,19,5,1
+2026-05-19,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,27.0,19,5,1
+2026-05-19,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,19,5,1
+2026-05-19,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,19,5,1
+2026-05-19,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,19,5,1
+2026-05-19,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,10.0,19,5,1
+2026-05-19,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,116.0,19,5,1
+2026-05-20,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,16.0,20,5,2
+2026-05-20,BEO BARASAT-I,3,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,20,5,2
+2026-05-20,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,66.0,20,5,2
+2026-05-20,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,5.0,20,5,2
+2026-05-20,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,20,5,2
+2026-05-20,BEO BARASAT-II,4,AI Gloves (50 Pcs Packet) - 2024,0,2.0,20,5,2
+2026-05-20,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,20,5,2
+2026-05-20,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,13.0,20,5,2
+2026-05-20,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,17.0,20,5,2
+2026-05-20,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,20,5,2
+2026-05-20,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,37.0,20,5,2
+2026-05-20,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,20,5,2
+2026-05-20,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,20,5,2
+2026-05-20,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,70.0,20,5,2
+2026-05-20,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,20,5,2
+2026-05-20,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,80.0,20,5,2
+2026-05-20,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,3.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,1.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,80.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,20,5,2
+2026-05-20,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,90.0,20,5,2
+2026-05-20,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,3.0,20,5,2
+2026-05-20,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,20,5,2
+2026-05-20,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,50.0,20,5,2
+2026-05-20,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,65.0,20,5,2
+2026-05-20,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,50.0,20,5,2
+2026-05-20,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,100.0,20,5,2
+2026-05-20,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,1.0,20,5,2
+2026-05-20,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,20,5,2
+2026-05-20,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,165.0,20,5,2
+2026-05-20,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,79.0,20,5,2
+2026-05-20,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,101.0,20,5,2
+2026-05-20,BEO HAROA,14,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,20,5,2
+2026-05-20,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,20,5,2
+2026-05-20,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,20,5,2
+2026-05-20,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,20,5,2
+2026-05-20,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,35.0,20,5,2
+2026-05-20,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,20,5,2
+2026-05-20,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,20,5,2
+2026-05-20,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,2.0,20,5,2
+2026-05-20,BEO MINAKHAN,17,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,20,5,2
+2026-05-20,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,20,5,2
+2026-05-20,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,20.0,20,5,2
+2026-05-20,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,19.0,20,5,2
+2026-05-20,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,89.0,20,5,2
+2026-05-20,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,20,5,2
+2026-05-20,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,28.0,20,5,2
+2026-05-21,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,21,5,3
+2026-05-21,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,21,5,3
+2026-05-21,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,21,5,3
+2026-05-21,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,15.0,21,5,3
+2026-05-21,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,21,5,3
+2026-05-21,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,26.0,21,5,3
+2026-05-22,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,22,5,4
+2026-05-22,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,7.0,22,5,4
+2026-05-25,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,2.0,25,5,0
+2026-05-25,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,25,5,0
+2026-05-25,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,25,5,0
+2026-05-25,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,140.0,25,5,0
+2026-05-25,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,205.0,25,5,0
+2026-05-25,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,25,5,0
+2026-05-25,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,106.0,25,5,0
+2026-05-25,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,2.0,25,5,0
+2026-05-25,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,25,5,0
+2026-05-25,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,90.0,25,5,0
+2026-05-25,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,25,5,0
+2026-05-25,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,60.0,25,5,0
+2026-05-25,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,25,5,0
+2026-05-25,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,86.0,25,5,0
+2026-05-25,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,24.0,25,5,0
+2026-05-25,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,16.0,25,5,0
+2026-05-25,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,25,5,0
+2026-05-25,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,42.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,3.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,70.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,50.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,70.0,25,5,0
+2026-05-25,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,57.0,25,5,0
+2026-05-25,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,25,5,0
+2026-05-25,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,25.0,25,5,0
+2026-05-25,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,14.0,25,5,0
+2026-05-25,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,1.0,25,5,0
+2026-05-25,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,25,5,0
+2026-05-25,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,25,5,0
+2026-05-25,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,40.0,25,5,0
+2026-05-25,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,25,5,0
+2026-05-25,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,33.0,25,5,0
+2026-05-25,BEO HABRA-I,12,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,70.0,25,5,0
+2026-05-25,BEO RAJARHAT,18,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,25,5,0
+2026-05-25,BEO RAJARHAT,18,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,25,5,0
+2026-05-25,BEO RAJARHAT,18,Frozen Semen Straw (FSS) - GIR,7,150.0,25,5,0
+2026-05-25,BEO RAJARHAT,18,Liquid Nitrogen (LN2) ,11,72.0,25,5,0
+2026-05-25,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,27.0,25,5,0
+2026-05-25,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,2.0,25,5,0
+2026-05-25,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,10.0,25,5,0
+2026-05-26,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,21.0,26,5,1
+2026-05-26,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,1.0,26,5,1
+2026-05-26,BEO BAGDA,2,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,26,5,1
+2026-05-26,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,26,5,1
+2026-05-26,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,47.0,26,5,1
+2026-05-26,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,77.0,26,5,1
+2026-05-26,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,37.0,26,5,1
+2026-05-26,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,37.0,26,5,1
+2026-05-26,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,112.0,26,5,1
+2026-05-26,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,1.0,26,5,1
+2026-05-26,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,26,5,1
+2026-05-26,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,15.0,26,5,1
+2026-05-26,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,5.0,26,5,1
+2026-05-26,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,26,5,1
+2026-05-26,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,57.0,26,5,1
+2026-05-26,BEO HABRA-II,13,Sex Sorted Semen Straw (SS) Cross Breed Jersey (CBJ),14,10.0,26,5,1
+2026-05-26,BEO HINGALGANJ,16,AI Gloves (50 Pcs Packet) - 2024,0,1.0,26,5,1
+2026-05-26,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,77.0,26,5,1
+2026-05-26,BEO SANDESHKHALI-I,19,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,26,5,1
+2026-05-26,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,26,5,1
+2026-05-26,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,15.0,26,5,1
+2026-05-26,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,15.0,26,5,1
+2026-05-26,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,2.0,26,5,1
+2026-05-26,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,26,5,1
+2026-05-26,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,26,5,1
+2026-05-26,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,26,5,1
+2026-05-26,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,26,5,1
+2026-05-26,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,26,5,1
+2026-05-26,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,26,5,1
+2026-05-26,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,6.0,26,5,1
+2026-05-26,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,26,5,1
+2026-05-26,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,26,5,1
+2026-05-26,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,26,5,1
+2026-05-26,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,15.0,26,5,1
+2026-05-26,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,26,5,1
+2026-05-26,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,115.0,26,5,1
+2026-05-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,14.0,27,5,2
+2026-05-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,15.0,27,5,2
+2026-05-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,27,5,2
+2026-05-27,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,32.0,27,5,2
+2026-05-27,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,27,5,2
+2026-05-27,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,27,5,2
+2026-05-27,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,35.0,27,5,2
+2026-05-27,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,27,5,2
+2026-05-27,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,100.0,27,5,2
+2026-05-27,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,14.0,27,5,2
+2026-05-27,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,2.0,27,5,2
+2026-05-27,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,27,5,2
+2026-05-27,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,27,5,2
+2026-05-27,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,27,5,2
+2026-05-27,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,30.0,27,5,2
+2026-05-27,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,72.0,27,5,2
+2026-05-27,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,19.0,27,5,2
+2026-05-27,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,27,5,2
+2026-05-27,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,65.0,27,5,2
+2026-05-27,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,61.0,27,5,2
+2026-05-27,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,27,5,2
+2026-05-27,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,84.0,27,5,2
+2026-05-27,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,27,5,2
+2026-05-27,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,27,5,2
+2026-05-27,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,12.0,27,5,2
+2026-05-27,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,27,5,2
+2026-05-27,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,10.0,27,5,2
+2026-05-27,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,27,5,2
+2026-05-27,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,18.0,27,5,2
+2026-05-27,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,27,5,2
+2026-05-27,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,27,5,2
+2026-05-27,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,27,5,2
+2026-05-27,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,27,5,2
+2026-05-27,BEO MINAKHAN,17,AI Gloves (50 Pcs Packet) - 2024,0,1.0,27,5,2
+2026-05-27,BEO MINAKHAN,17,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,27,5,2
+2026-05-27,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,27,5,2
+2026-05-27,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,5.0,27,5,2
+2026-05-27,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,50.0,27,5,2
+2026-05-28,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,1.0,28,5,3
+2026-05-28,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,28,5,3
+2026-05-28,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,28,5,3
+2026-05-28,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,28,5,3
+2026-05-28,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,30.0,28,5,3
+2026-05-28,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,28,5,3
+2026-05-28,BEO GAIGHATA,11,Frozen Semen Straw (FSS) Buffalo Murrah,9,100.0,28,5,3
+2026-05-28,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,15.0,28,5,3
+2026-05-28,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,4.0,28,5,3
+2026-05-29,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,10.0,29,5,4
+2026-05-29,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,1.0,29,5,4
+2026-05-29,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,21.0,29,5,4
+2026-05-29,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,17.0,29,5,4
+2026-05-29,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,26.0,29,5,4
+2026-05-29,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,21.0,29,5,4
+2026-05-29,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,29,5,4
+2026-05-29,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,10.0,29,5,4
+2026-05-29,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,29,5,4
+2026-05-29,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,29,5,4
+2026-05-29,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,29,5,4
+2026-05-29,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,29,5,4
+2026-05-29,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,29,5,4
+2026-05-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,29,5,4
+2026-05-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,29,5,4
+2026-05-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,5.0,29,5,4
+2026-05-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,29,5,4
+2026-05-29,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,63.0,29,5,4
+2026-05-30,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,30,5,5
+2026-05-30,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,10.0,30,5,5
+2026-05-31,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,31,5,6
+2026-05-31,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,27.0,31,5,6
+2026-05-31,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,53.0,31,5,6
+2026-05-31,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,3.0,31,5,6
+2026-05-31,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,31,5,6
+2026-05-31,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,98.0,31,5,6
+2026-05-31,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,31,5,6
+2026-05-31,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,13.0,31,5,6
+2026-05-31,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,15.0,31,5,6
+2026-05-31,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,2.0,31,5,6
+2026-06-01,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,1.0,1,6,0
+2026-06-01,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,1,6,0
+2026-06-01,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,1,6,0
+2026-06-01,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,1,6,0
+2026-06-01,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,80.0,1,6,0
+2026-06-01,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,175.0,1,6,0
+2026-06-01,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,103.0,1,6,0
+2026-06-01,BEO BADURIA,1,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,10.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,45.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,76.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,53.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,40.0,1,6,0
+2026-06-01,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,30.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,2.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,50.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,55.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,70.0,1,6,0
+2026-06-01,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,45.0,1,6,0
+2026-06-01,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,6.0,1,6,0
+2026-06-01,BEO DEGANGA,10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,9.0,1,6,0
+2026-06-01,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,120.0,1,6,0
+2026-06-01,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,172.0,1,6,0
+2026-06-01,BEO DEGANGA,10,Frozen Semen Straw (FSS) - GIR,7,103.0,1,6,0
+2026-06-01,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,89.0,1,6,0
+2026-06-01,BEO DEGANGA,10,Liquid Nitrogen (LN2) ,11,240.0,1,6,0
+2026-06-01,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,5.0,1,6,0
+2026-06-01,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,1,6,0
+2026-06-01,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,45.0,1,6,0
+2026-06-01,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,90.0,1,6,0
+2026-06-01,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,80.0,1,6,0
+2026-06-01,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,35.0,1,6,0
+2026-06-01,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,4.0,1,6,0
+2026-06-01,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,1,6,0
+2026-06-01,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,1,6,0
+2026-06-01,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,1,6,0
+2026-06-01,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,20.0,1,6,0
+2026-06-01,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,1,6,0
+2026-06-01,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,43.0,1,6,0
+2026-06-02,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,1.0,2,6,1
+2026-06-02,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,2,6,1
+2026-06-02,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,80.0,2,6,1
+2026-06-02,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,120.0,2,6,1
+2026-06-02,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,80.0,2,6,1
+2026-06-02,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,2,6,1
+2026-06-02,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,70.0,2,6,1
+2026-06-02,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,1.0,2,6,1
+2026-06-02,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,2,6,1
+2026-06-02,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,75.0,2,6,1
+2026-06-02,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,65.0,2,6,1
+2026-06-02,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,95.0,2,6,1
+2026-06-02,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,100.0,2,6,1
+2026-06-02,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,34.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,AI Gloves (50 Pcs Packet) - 2024,0,3.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,10.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,31.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,165.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,98.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,71.0,2,6,1
+2026-06-02,BEO HINGALGANJ,16,Thaw Monitor,17,2.0,2,6,1
+2026-06-02,BEO SANDESHKHALI-II,20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,2,6,1
+2026-06-02,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,32.0,2,6,1
+2026-06-02,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - GIR,7,76.0,2,6,1
+2026-06-02,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,18.0,2,6,1
+2026-06-02,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,1.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,5.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,2,6,1
+2026-06-02,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,21.0,2,6,1
+2026-06-03,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,3,6,2
+2026-06-03,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,6.0,3,6,2
+2026-06-03,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,10.0,3,6,2
+2026-06-03,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,3,6,2
+2026-06-03,BEO BARASAT-II,4,Frozen Semen Straw (FSS) Buffalo Murrah,9,5.0,3,6,2
+2026-06-03,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,21.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,16.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,160.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,135.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,230.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,140.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,100.0,3,6,2
+2026-06-03,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,244.0,3,6,2
+2026-06-03,BEO BASIRHAT-II,8,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,3,6,2
+2026-06-03,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,3,6,2
+2026-06-03,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,140.0,3,6,2
+2026-06-03,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,70.0,3,6,2
+2026-06-03,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,3,6,2
+2026-06-03,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,81.0,3,6,2
+2026-06-03,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,4.0,3,6,2
+2026-06-03,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,8.0,3,6,2
+2026-06-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,90.0,3,6,2
+2026-06-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,83.0,3,6,2
+2026-06-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,68.0,3,6,2
+2026-06-03,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,43.0,3,6,2
+2026-06-03,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,16.0,3,6,2
+2026-06-03,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,258.0,3,6,2
+2026-06-03,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,34.0,3,6,2
+2026-06-03,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,180.0,3,6,2
+2026-06-03,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,238.0,3,6,2
+2026-06-03,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,93.0,3,6,2
+2026-06-03,BEO HASNABAD,15,AI Gloves (50 Pcs Packet) - 2024,0,2.0,3,6,2
+2026-06-03,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,3,6,2
+2026-06-03,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,3,6,2
+2026-06-03,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,3,6,2
+2026-06-03,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,98.0,3,6,2
+2026-06-03,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,80.0,3,6,2
+2026-06-03,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,3,6,2
+2026-06-03,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,3,6,2
+2026-06-03,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,52.0,3,6,2
+2026-06-03,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,34.0,3,6,2
+2026-06-03,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,47.0,3,6,2
+2026-06-04,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,4,6,3
+2026-06-04,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,4,6,3
+2026-06-04,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,4,6,3
+2026-06-04,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,80.0,4,6,3
+2026-06-04,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,32.0,4,6,3
+2026-06-04,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,4,6,3
+2026-06-04,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,22.0,4,6,3
+2026-06-04,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,4,6,3
+2026-06-04,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,30.0,4,6,3
+2026-06-04,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,9.0,4,6,3
+2026-06-04,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,63.0,4,6,3
+2026-06-05,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,6.0,5,6,4
+2026-06-06,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,1.0,6,6,5
+2026-06-06,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,6,6,5
+2026-06-06,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,6,6,5
+2026-06-06,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,6,6,5
+2026-06-06,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,40.0,6,6,5
+2026-06-06,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,6,6,5
+2026-06-06,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,16.0,6,6,5
+2026-06-08,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,2.0,8,6,0
+2026-06-08,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,8,6,0
+2026-06-08,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,8,6,0
+2026-06-08,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,8,6,0
+2026-06-08,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,35.0,8,6,0
+2026-06-08,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,85.0,8,6,0
+2026-06-08,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,105.0,8,6,0
+2026-06-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,25.0,8,6,0
+2026-06-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,25.0,8,6,0
+2026-06-08,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,8,6,0
+2026-06-08,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,8,6,0
+2026-06-08,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,21.0,8,6,0
+2026-06-08,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,20.0,8,6,0
+2026-06-08,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,29.0,8,6,0
+2026-06-08,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,21.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,2.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,55.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,8,6,0
+2026-06-08,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,63.0,8,6,0
+2026-06-08,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,2.0,8,6,0
+2026-06-08,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,8,6,0
+2026-06-08,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,8,6,0
+2026-06-08,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,105.0,8,6,0
+2026-06-08,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,75.0,8,6,0
+2026-06-08,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,8,6,0
+2026-06-08,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,35.0,8,6,0
+2026-06-08,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,8,6,0
+2026-06-08,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,8,6,0
+2026-06-08,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,5.0,8,6,0
+2026-06-08,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,8,6,0
+2026-06-08,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,3.0,8,6,0
+2026-06-08,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,3.0,8,6,0
+2026-06-09,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,2.0,9,6,1
+2026-06-09,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,3.0,9,6,1
+2026-06-09,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,9.0,9,6,1
+2026-06-09,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,37.0,9,6,1
+2026-06-09,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,9,6,1
+2026-06-09,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,50.0,9,6,1
+2026-06-09,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,9,6,1
+2026-06-09,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,56.0,9,6,1
+2026-06-09,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,16.0,9,6,1
+2026-06-09,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,4.0,9,6,1
+2026-06-09,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,41.0,9,6,1
+2026-06-09,BEO SANDESHKHALI-II,20,AI Gloves (50 Pcs Packet) - 2024,0,1.0,9,6,1
+2026-06-09,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,AI Gun (for 0.25 ml straw) with Container_2024,1,2.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,115.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,170.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,115.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,9,6,1
+2026-06-09,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,38.0,9,6,1
+2026-06-10,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,2.0,10,6,2
+2026-06-10,BEO BARASAT-I,3,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,10,6,2
+2026-06-10,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,10,6,2
+2026-06-10,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,10.0,10,6,2
+2026-06-10,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,111.0,10,6,2
+2026-06-10,BEO BARASAT-I,3,Liquid Nitrogen (LN2) ,11,56.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,12.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,84.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,120.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,130.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,130.0,10,6,2
+2026-06-10,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,36.0,10,6,2
+2026-06-10,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,10,6,2
+2026-06-10,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,10,6,2
+2026-06-10,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,120.0,10,6,2
+2026-06-10,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,135.0,10,6,2
+2026-06-10,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,55.0,10,6,2
+2026-06-10,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,78.0,10,6,2
+2026-06-10,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,1.0,10,6,2
+2026-06-10,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,10,6,2
+2026-06-10,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,125.0,10,6,2
+2026-06-10,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,96.0,10,6,2
+2026-06-10,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,76.0,10,6,2
+2026-06-10,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,10,6,2
+2026-06-10,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,32.0,10,6,2
+2026-06-10,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,86.0,10,6,2
+2026-06-10,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,21.0,10,6,2
+2026-06-10,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,134.0,10,6,2
+2026-06-10,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,129.0,10,6,2
+2026-06-10,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,3.0,10,6,2
+2026-06-10,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,10,6,2
+2026-06-10,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,10,6,2
+2026-06-10,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,10,6,2
+2026-06-10,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,27.0,10,6,2
+2026-06-10,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,10,6,2
+2026-06-10,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,19.0,10,6,2
+2026-06-10,BEO HASNABAD,15,AI Gloves (50 Pcs Packet) - 2024,0,2.0,10,6,2
+2026-06-10,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,10,6,2
+2026-06-10,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,10,6,2
+2026-06-10,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,10,6,2
+2026-06-10,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,20.0,10,6,2
+2026-06-10,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,10,6,2
+2026-06-10,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,10,6,2
+2026-06-10,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,10.0,10,6,2
+2026-06-10,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,9.0,10,6,2
+2026-06-10,BEO MINAKHAN,17,AI Gloves (50 Pcs Packet) - 2024,0,1.0,10,6,2
+2026-06-10,BEO MINAKHAN,17,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,10,6,2
+2026-06-10,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,10,6,2
+2026-06-10,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,33.0,10,6,2
+2026-06-10,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,10,6,2
+2026-06-10,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,47.0,10,6,2
+2026-06-10,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,10,6,2
+2026-06-10,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,10,6,2
+2026-06-10,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,10,6,2
+2026-06-10,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,10,6,2
+2026-06-10,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,10,6,2
+2026-06-10,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,6.0,10,6,2
+2026-06-10,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,10,6,2
+2026-06-10,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,10,6,2
+2026-06-10,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,28.0,10,6,2
+2026-06-11,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,11,6,3
+2026-06-11,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,7.0,11,6,3
+2026-06-11,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,190.0,11,6,3
+2026-06-11,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,67.0,11,6,3
+2026-06-11,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,37.0,11,6,3
+2026-06-11,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,24.0,11,6,3
+2026-06-11,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,2.0,11,6,3
+2026-06-11,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,11,6,3
+2026-06-11,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,11,6,3
+2026-06-11,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,2.0,11,6,3
+2026-06-11,BEO SANDESHKHALI-I,19,AI Gun (for 0.25 ml straw) with Container_2025,2,1.0,11,6,3
+2026-06-11,BEO SANDESHKHALI-I,19,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,11,6,3
+2026-06-11,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,11,6,3
+2026-06-11,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,5.0,11,6,3
+2026-06-11,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,10.0,11,6,3
+2026-06-11,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,11,6,3
+2026-06-11,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,11,6,3
+2026-06-11,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,49.0,11,6,3
+2026-06-12,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,12,6,4
+2026-06-12,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,27.0,12,6,4
+2026-06-12,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,31.0,12,6,4
+2026-06-12,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,17.0,12,6,4
+2026-06-12,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,29.0,12,6,4
+2026-06-12,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,3.0,12,6,4
+2026-06-12,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,12,6,4
+2026-06-12,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,25.0,12,6,4
+2026-06-12,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,10.0,12,6,4
+2026-06-12,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,12,6,4
+2026-06-12,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,35.0,12,6,4
+2026-06-14,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,14,6,6
+2026-06-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,14,6,6
+2026-06-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,14,6,6
+2026-06-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,10.0,14,6,6
+2026-06-14,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,14,6,6
+2026-06-14,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,3.0,14,6,6
+2026-06-15,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,4.0,15,6,0
+2026-06-15,BEO BADURIA,1,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,15,6,0
+2026-06-15,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,15,6,0
+2026-06-15,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,15,6,0
+2026-06-15,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,15,6,0
+2026-06-15,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,45.0,15,6,0
+2026-06-15,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,15,6,0
+2026-06-15,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,105.0,15,6,0
+2026-06-15,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,3.0,15,6,0
+2026-06-15,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,15,6,0
+2026-06-15,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,95.0,15,6,0
+2026-06-15,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,125.0,15,6,0
+2026-06-15,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,75.0,15,6,0
+2026-06-15,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,65.0,15,6,0
+2026-06-15,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,45.0,15,6,0
+2026-06-15,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,12.0,15,6,0
+2026-06-15,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,34.0,15,6,0
+2026-06-15,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,54.0,15,6,0
+2026-06-15,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,15.0,15,6,0
+2026-06-15,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,15,6,0
+2026-06-15,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,45.0,15,6,0
+2026-06-15,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,75.0,15,6,0
+2026-06-15,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,45.0,15,6,0
+2026-06-15,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,15,6,0
+2026-06-15,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,48.0,15,6,0
+2026-06-15,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,4.0,15,6,0
+2026-06-15,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,13.0,15,6,0
+2026-06-15,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,15,6,0
+2026-06-15,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,98.0,15,6,0
+2026-06-15,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,141.0,15,6,0
+2026-06-15,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,180.0,15,6,0
+2026-06-15,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,75.0,15,6,0
+2026-06-15,BEO DEGANGA,10,AI Gloves (50 Pcs Packet) - 2024,0,7.0,15,6,0
+2026-06-15,BEO DEGANGA,10,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,9.0,15,6,0
+2026-06-15,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,155.0,15,6,0
+2026-06-15,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,253.0,15,6,0
+2026-06-15,BEO DEGANGA,10,Frozen Semen Straw (FSS) - GIR,7,194.0,15,6,0
+2026-06-15,BEO DEGANGA,10,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,86.0,15,6,0
+2026-06-15,BEO DEGANGA,10,Liquid Nitrogen (LN2) ,11,120.0,15,6,0
+2026-06-15,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,15,6,0
+2026-06-15,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,15,6,0
+2026-06-15,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,15,6,0
+2026-06-15,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,30.0,15,6,0
+2026-06-15,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,15,6,0
+2026-06-15,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,87.0,15,6,0
+2026-06-16,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,16,6,1
+2026-06-16,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,16,6,1
+2026-06-16,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,16,6,1
+2026-06-16,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,15.0,16,6,1
+2026-06-16,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,16,6,1
+2026-06-16,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,36.0,16,6,1
+2026-06-16,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,1.0,16,6,1
+2026-06-16,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,16,6,1
+2026-06-16,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,65.0,16,6,1
+2026-06-16,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,16,6,1
+2026-06-16,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,40.0,16,6,1
+2026-06-16,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,16,6,1
+2026-06-16,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,61.0,16,6,1
+2026-06-16,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,16,6,1
+2026-06-16,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,5.0,16,6,1
+2026-06-16,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,8.0,16,6,1
+2026-06-16,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,12.0,16,6,1
+2026-06-16,BEO BONGAON,9,Sex Sorted Semen Straw (SS) Cross Breed Holstein (CBHF) ,13,23.0,16,6,1
+2026-06-16,BEO BONGAON,9,Sex Sorted Semen Straw (SS) Cross Breed Jersey (CBJ),14,80.0,16,6,1
+2026-06-16,BEO BONGAON,9,Sex Sorted Semen Straw (SS) GIR ,15,20.0,16,6,1
+2026-06-16,BEO BONGAON,9,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,13.0,16,6,1
+2026-06-16,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,3.0,16,6,1
+2026-06-16,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,14.0,16,6,1
+2026-06-16,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,68.0,16,6,1
+2026-06-16,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,21.0,16,6,1
+2026-06-16,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,16,6,1
+2026-06-16,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,70.0,16,6,1
+2026-06-16,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,50.0,16,6,1
+2026-06-16,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,40.0,16,6,1
+2026-06-16,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,16,6,1
+2026-06-16,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,58.0,16,6,1
+2026-06-17,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,1.0,17,6,2
+2026-06-17,BEO BARASAT-I,3,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,17,6,2
+2026-06-17,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,78.0,17,6,2
+2026-06-17,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,47.0,17,6,2
+2026-06-17,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,25.0,17,6,2
+2026-06-17,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,17,6,2
+2026-06-17,BEO BARASAT-I,3,Frozen Semen Straw (FSS) Buffalo Murrah,9,10.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,30.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,70.0,17,6,2
+2026-06-17,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,12.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,2.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,65.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,75.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,17,6,2
+2026-06-17,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,72.0,17,6,2
+2026-06-17,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,1.0,17,6,2
+2026-06-17,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,17,6,2
+2026-06-17,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,92.0,17,6,2
+2026-06-17,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,17,6,2
+2026-06-17,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,76.0,17,6,2
+2026-06-17,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,76.0,17,6,2
+2026-06-17,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,17,6,2
+2026-06-17,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,17,6,2
+2026-06-17,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,99.0,17,6,2
+2026-06-17,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,2.0,17,6,2
+2026-06-17,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,8.0,17,6,2
+2026-06-17,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,17,6,2
+2026-06-17,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,17,6,2
+2026-06-17,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,35.0,17,6,2
+2026-06-17,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,45.0,17,6,2
+2026-06-17,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,36.0,17,6,2
+2026-06-17,BEO HASNABAD,15,AI Gloves (50 Pcs Packet) - 2024,0,1.0,17,6,2
+2026-06-17,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,17,6,2
+2026-06-17,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,17,6,2
+2026-06-17,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,17,6,2
+2026-06-17,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,7.0,17,6,2
+2026-06-17,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,17,6,2
+2026-06-17,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,17,6,2
+2026-06-17,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,17,6,2
+2026-06-17,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,50.0,17,6,2
+2026-06-17,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,17,6,2
+2026-06-17,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,20.0,17,6,2
+2026-06-17,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,17,6,2
+2026-06-17,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,72.0,17,6,2
+2026-06-18,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,18,6,3
+2026-06-18,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,5.0,18,6,3
+2026-06-18,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,18,6,3
+2026-06-18,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,18,6,3
+2026-06-18,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,23.0,18,6,3
+2026-06-18,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,70.0,18,6,3
+2026-06-18,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,28.0,18,6,3
+2026-06-18,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,25.0,18,6,3
+2026-06-18,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,33.0,18,6,3
+2026-06-18,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,3.0,18,6,3
+2026-06-18,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,2.0,18,6,3
+2026-06-18,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,9.0,18,6,3
+2026-06-19,BEO BARASAT-II,4,AI Gloves (50 Pcs Packet) - 2024,0,2.0,19,6,4
+2026-06-19,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,5.0,19,6,4
+2026-06-19,BEO BARASAT-II,4,Frozen Semen Straw (FSS) Buffalo Murrah,9,10.0,19,6,4
+2026-06-19,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,29.0,19,6,4
+2026-06-19,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,19,6,4
+2026-06-19,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,55.0,19,6,4
+2026-06-19,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,19,6,4
+2026-06-19,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,41.0,19,6,4
+2026-06-22,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,2.0,22,6,0
+2026-06-22,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,22,6,0
+2026-06-22,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,80.0,22,6,0
+2026-06-22,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,165.0,22,6,0
+2026-06-22,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,165.0,22,6,0
+2026-06-22,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,70.0,22,6,0
+2026-06-22,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,102.0,22,6,0
+2026-06-22,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,2.0,22,6,0
+2026-06-22,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,8.0,22,6,0
+2026-06-22,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,22,6,0
+2026-06-22,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,65.0,22,6,0
+2026-06-22,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,60.0,22,6,0
+2026-06-22,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,50.0,22,6,0
+2026-06-22,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,96.0,22,6,0
+2026-06-22,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,22,6,0
+2026-06-22,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,7.0,22,6,0
+2026-06-22,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,9.0,22,6,0
+2026-06-22,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,10.0,22,6,0
+2026-06-22,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,14.0,22,6,0
+2026-06-22,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,24.0,22,6,0
+2026-06-22,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,22,6,0
+2026-06-22,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,35.0,22,6,0
+2026-06-22,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,90.0,22,6,0
+2026-06-22,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,50.0,22,6,0
+2026-06-22,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,22,6,0
+2026-06-22,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,54.0,22,6,0
+2026-06-22,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,4.0,22,6,0
+2026-06-22,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,22,6,0
+2026-06-22,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,90.0,22,6,0
+2026-06-22,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,95.0,22,6,0
+2026-06-22,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,100.0,22,6,0
+2026-06-22,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,55.0,22,6,0
+2026-06-22,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,68.0,22,6,0
+2026-06-22,DPD 24 PARAGANAS NORTH ,22,Cryo Container  - BA-3 - 2025,4,2.0,22,6,0
+2026-06-22,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,35.0,22,6,0
+2026-06-23,BEO AMDANGA,0,AI Gloves (50 Pcs Packet) - 2024,0,1.0,23,6,1
+2026-06-23,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,23,6,1
+2026-06-23,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,23,6,1
+2026-06-23,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,35.0,23,6,1
+2026-06-23,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,20.0,23,6,1
+2026-06-23,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,23,6,1
+2026-06-23,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,24.0,23,6,1
+2026-06-23,BEO BAGDA,2,AI Gloves (50 Pcs Packet) - 2024,0,4.0,23,6,1
+2026-06-23,BEO BAGDA,2,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,23,6,1
+2026-06-23,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,86.0,23,6,1
+2026-06-23,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,91.0,23,6,1
+2026-06-23,BEO BAGDA,2,Frozen Semen Straw (FSS) - GIR,7,53.0,23,6,1
+2026-06-23,BEO BAGDA,2,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,23,6,1
+2026-06-23,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,143.0,23,6,1
+2026-06-23,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,3.0,23,6,1
+2026-06-23,BEO HABRA-II,13,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,23,6,1
+2026-06-23,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,23,6,1
+2026-06-23,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,23,6,1
+2026-06-23,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,23,6,1
+2026-06-23,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,15.0,23,6,1
+2026-06-23,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,23,6,1
+2026-06-23,BEO HABRA-II,13,Goblet (35 X 118mm)_2023,10,4.0,23,6,1
+2026-06-23,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,56.0,23,6,1
+2026-06-23,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,23,6,1
+2026-06-23,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,10.0,23,6,1
+2026-06-23,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,23,6,1
+2026-06-23,BEO HINGALGANJ,16,Goblet (35 X 118mm)_2023,10,10.0,23,6,1
+2026-06-23,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,45.0,23,6,1
+2026-06-23,BEO RAJARHAT,18,AI Gun (for 0.25 ml straw) with Container_2024,1,1.0,23,6,1
+2026-06-23,BEO RAJARHAT,18,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,23,6,1
+2026-06-23,BEO RAJARHAT,18,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,23,6,1
+2026-06-23,BEO RAJARHAT,18,Frozen Semen Straw (FSS) - GIR,7,150.0,23,6,1
+2026-06-23,BEO RAJARHAT,18,Liquid Nitrogen (LN2) ,11,90.0,23,6,1
+2026-06-23,BEO SANDESHKHALI-II,20,AI Gun (for 0.25 ml straw) with Container_2025,2,1.0,23,6,1
+2026-06-23,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,4.0,23,6,1
+2026-06-23,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - GIR,7,3.0,23,6,1
+2026-06-23,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,2.0,23,6,1
+2026-06-23,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,27.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,55.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,10.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,45.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,Goblet (35 X 118mm)_2023,10,2.0,23,6,1
+2026-06-23,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,66.0,23,6,1
+2026-06-24,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,24,6,2
+2026-06-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,51.0,24,6,2
+2026-06-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,24.0,24,6,2
+2026-06-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,60.0,24,6,2
+2026-06-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,24,6,2
+2026-06-24,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,70.0,24,6,2
+2026-06-24,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,12.0,24,6,2
+2026-06-24,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,4.0,24,6,2
+2026-06-24,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,24,6,2
+2026-06-24,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,23.0,24,6,2
+2026-06-24,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,87.0,24,6,2
+2026-06-24,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,31.0,24,6,2
+2026-06-24,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,92.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,2.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,87.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,60.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,37.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,39.0,24,6,2
+2026-06-24,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,117.0,24,6,2
+2026-06-24,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,24,6,2
+2026-06-24,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,35.0,24,6,2
+2026-06-24,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,45.0,24,6,2
+2026-06-24,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,50.0,24,6,2
+2026-06-24,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,24,6,2
+2026-06-24,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,24,6,2
+2026-06-24,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,3.0,24,6,2
+2026-06-24,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,42.0,24,6,2
+2026-06-25,BEO BAGDA,2,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,25,6,3
+2026-06-25,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,15.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,1.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,85.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,60.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,25,6,3
+2026-06-25,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,75.0,25,6,3
+2026-06-25,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,2.0,25,6,3
+2026-06-25,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,25,6,3
+2026-06-25,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,35.0,25,6,3
+2026-06-25,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,70.0,25,6,3
+2026-06-25,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,20.0,25,6,3
+2026-06-25,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,25,6,3
+2026-06-25,BEO HAROA,14,Goblet (35 X 118mm)_2023,10,4.0,25,6,3
+2026-06-25,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,20.0,25,6,3
+2026-06-25,BEO HAROA,14,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,10.0,25,6,3
+2026-06-25,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,25,6,3
+2026-06-25,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,6.0,25,6,3
+2026-06-25,DPD 24 PARAGANAS NORTH ,22,AI Gloves (50 Pcs Packet) - 2024,0,7.0,25,6,3
+2026-06-25,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,49.0,25,6,3
+2026-06-27,BEO BARASAT-II,4,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,27,6,5
+2026-06-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,27,6,5
+2026-06-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,46.0,27,6,5
+2026-06-27,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,24.0,27,6,5
+2026-06-27,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,26.0,27,6,5
+2026-06-29,BEO BARASAT-II,4,AI Gloves (50 Pcs Packet) - 2024,0,2.0,29,6,0
+2026-06-29,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,13.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,AI Gloves (50 Pcs Packet) - 2024,0,2.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,10.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,15.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,5.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,20.0,29,6,0
+2026-06-29,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,18.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,3.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,40.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,80.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,30.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,45.0,29,6,0
+2026-06-29,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,48.0,29,6,0
+2026-06-29,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,16.0,29,6,0
+2026-06-29,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,16.0,29,6,0
+2026-06-29,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,3.0,29,6,0
+2026-06-29,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,2.0,29,6,0
+2026-06-29,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,60.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,55.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,40.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Frozen Semen Straw (FSS) Buffalo Murrah,9,25.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Goblet (35 X 118mm)_2023,10,4.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,37.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Sex Sorted Semen Straw (SS) GIR ,15,10.0,29,6,0
+2026-06-29,BEO HABRA-I,12,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,100.0,29,6,0
+2026-06-29,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,29,6,0
+2026-06-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,29,6,0
+2026-06-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,29,6,0
+2026-06-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,10.0,29,6,0
+2026-06-29,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) Buffalo Murrah,9,5.0,29,6,0
+2026-06-29,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,35.0,29,6,0
+2026-06-30,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,30,6,1
+2026-06-30,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,27.0,30,6,1
+2026-06-30,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,2.0,30,6,1
+2026-06-30,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,7.0,30,6,1
+2026-06-30,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,75.0,30,6,1
+2026-06-30,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,110.0,30,6,1
+2026-06-30,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,85.0,30,6,1
+2026-06-30,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,100.0,30,6,1
+2026-06-30,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,110.0,30,6,1
+2026-06-30,BEO BAGDA,2,Liquid Nitrogen (LN2) ,11,7.0,30,6,1
+2026-06-30,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,10.0,30,6,1
+2026-06-30,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,18.0,30,6,1
+2026-06-30,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,2.0,30,6,1
+2026-06-30,BEO GAIGHATA,11,Thaw Monitor,17,1.0,30,6,1
+2026-06-30,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,1.0,30,6,1
+2026-06-30,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,30.0,30,6,1
+2026-06-30,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,30,6,1
+2026-06-30,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,20.0,30,6,1
+2026-06-30,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,30,6,1
+2026-06-30,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,36.0,30,6,1
+2026-06-30,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,5.0,30,6,1
+2026-06-30,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,3.0,30,6,1
+2026-06-30,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,7.0,30,6,1
+2026-06-30,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,6.0,30,6,1
+2026-06-30,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,30,6,1
+2026-06-30,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,24.0,30,6,1
+2026-07-01,BEO BARASAT-I,3,AI Gloves (50 Pcs Packet) - 2024,0,2.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,62.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,69.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - GIR,7,23.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,7.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,Frozen Semen Straw (FSS) Buffalo Murrah,9,5.0,1,7,2
+2026-07-01,BEO BARASAT-I,3,Liquid Nitrogen (LN2) ,11,60.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,AI Gloves (50 Pcs Packet) - 2024,0,9.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,14.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,105.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,120.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,215.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,95.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,115.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Goblet (35 X 118mm)_2023,10,23.0,1,7,2
+2026-07-01,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,156.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,1.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,25.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,100.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,65.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,1,7,2
+2026-07-01,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,69.0,1,7,2
+2026-07-01,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,44.0,1,7,2
+2026-07-01,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,40.0,1,7,2
+2026-07-01,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,16.0,1,7,2
+2026-07-01,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,386.0,1,7,2
+2026-07-01,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,299.0,1,7,2
+2026-07-01,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,33.0,1,7,2
+2026-07-01,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,96.0,1,7,2
+2026-07-01,BEO HASNABAD,15,AI Gloves (50 Pcs Packet) - 2024,0,4.0,1,7,2
+2026-07-01,BEO HASNABAD,15,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,8.0,1,7,2
+2026-07-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,71.0,1,7,2
+2026-07-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,115.0,1,7,2
+2026-07-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,65.0,1,7,2
+2026-07-01,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,76.0,1,7,2
+2026-07-01,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,36.0,1,7,2
+2026-07-01,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,5.0,1,7,2
+2026-07-01,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,48.0,1,7,2
+2026-07-01,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,57.0,1,7,2
+2026-07-01,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,52.0,1,7,2
+2026-07-01,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,1,7,2
+2026-07-01,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,20.0,1,7,2
+2026-07-01,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,20.0,1,7,2
+2026-07-01,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,1,7,2
+2026-07-01,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,38.0,1,7,2
+2026-07-02,BEO HAROA,14,AI Gloves (50 Pcs Packet) - 2024,0,1.0,2,7,3
+2026-07-02,BEO HAROA,14,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,2,7,3
+2026-07-02,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,37.0,2,7,3
+2026-07-02,BEO HAROA,14,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,55.0,2,7,3
+2026-07-02,BEO HAROA,14,Frozen Semen Straw (FSS) - GIR,7,38.0,2,7,3
+2026-07-02,BEO HAROA,14,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,27.0,2,7,3
+2026-07-02,BEO HAROA,14,Goblet (35 X 118mm)_2023,10,2.0,2,7,3
+2026-07-02,BEO HAROA,14,Liquid Nitrogen (LN2) ,11,26.0,2,7,3
+2026-07-02,BEO HINGALGANJ,16,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,4.0,2,7,3
+2026-07-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - GIR,7,165.0,2,7,3
+2026-07-02,BEO HINGALGANJ,16,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,45.0,2,7,3
+2026-07-02,BEO HINGALGANJ,16,Liquid Nitrogen (LN2) ,11,68.0,2,7,3
+2026-07-02,BEO HINGALGANJ,16,Premium Quality Semen Straw- Pure Jersey (Pr. PJ),12,50.0,2,7,3
+2026-07-02,BEO SANDESHKHALI-I,19,AI Gloves (50 Pcs Packet) - 2024,0,1.0,2,7,3
+2026-07-02,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - GIR,7,15.0,2,7,3
+2026-07-02,BEO SANDESHKHALI-I,19,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,20.0,2,7,3
+2026-07-02,BEO SANDESHKHALI-I,19,Liquid Nitrogen (LN2) ,11,9.0,2,7,3
+2026-07-03,BEO BONGAON,9,AI Gloves (50 Pcs Packet) - 2024,0,6.0,3,7,4
+2026-07-03,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,19.0,3,7,4
+2026-07-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,220.0,3,7,4
+2026-07-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,83.0,3,7,4
+2026-07-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,41.0,3,7,4
+2026-07-03,BEO BONGAON,9,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,182.0,3,7,4
+2026-07-03,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,71.0,3,7,4
+2026-07-04,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,6.0,4,7,5
+2026-07-04,BEO BARASAT-II,4,Frozen Semen Straw (FSS) - GIR,7,8.0,4,7,5
+2026-07-04,BEO BARASAT-II,4,Liquid Nitrogen (LN2) ,11,12.0,4,7,5
+2026-07-07,BEO AMDANGA,0,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,7,7,1
+2026-07-07,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,60.0,7,7,1
+2026-07-07,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,80.0,7,7,1
+2026-07-07,BEO AMDANGA,0,Frozen Semen Straw (FSS) - GIR,7,65.0,7,7,1
+2026-07-07,BEO AMDANGA,0,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,35.0,7,7,1
+2026-07-07,BEO AMDANGA,0,Frozen Semen Straw (FSS) Buffalo Murrah,9,5.0,7,7,1
+2026-07-07,BEO AMDANGA,0,Liquid Nitrogen (LN2) ,11,27.0,7,7,1
+2026-07-07,BEO BADURIA,1,AI Gloves (50 Pcs Packet) - 2024,0,2.0,7,7,1
+2026-07-07,BEO BADURIA,1,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,7,7,1
+2026-07-07,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,85.0,7,7,1
+2026-07-07,BEO BADURIA,1,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,65.0,7,7,1
+2026-07-07,BEO BADURIA,1,Frozen Semen Straw (FSS) - GIR,7,95.0,7,7,1
+2026-07-07,BEO BADURIA,1,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,55.0,7,7,1
+2026-07-07,BEO BADURIA,1,Liquid Nitrogen (LN2) ,11,105.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,59.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,56.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - GIR,7,52.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,5.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,Frozen Semen Straw (FSS) Buffalo Murrah,9,57.0,7,7,1
+2026-07-07,BEO BARRACKPUR-II,6,Liquid Nitrogen (LN2) ,11,28.0,7,7,1
+2026-07-07,BEO HABRA-I,12,AI Gloves (50 Pcs Packet) - 2024,0,6.0,7,7,1
+2026-07-07,BEO HABRA-I,12,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,7,7,1
+2026-07-07,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,100.0,7,7,1
+2026-07-07,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,105.0,7,7,1
+2026-07-07,BEO HABRA-I,12,Frozen Semen Straw (FSS) - GIR,7,95.0,7,7,1
+2026-07-07,BEO HABRA-I,12,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,7,7,1
+2026-07-07,BEO HABRA-I,12,Liquid Nitrogen (LN2) ,11,40.0,7,7,1
+2026-07-07,BEO HABRA-II,13,AI Gloves (50 Pcs Packet) - 2024,0,2.0,7,7,1
+2026-07-07,BEO HABRA-II,13,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,3.0,7,7,1
+2026-07-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,45.0,7,7,1
+2026-07-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,30.0,7,7,1
+2026-07-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - GIR,7,70.0,7,7,1
+2026-07-07,BEO HABRA-II,13,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,90.0,7,7,1
+2026-07-07,BEO HABRA-II,13,Goblet (35 X 118mm)_2023,10,1.0,7,7,1
+2026-07-07,BEO HABRA-II,13,Liquid Nitrogen (LN2) ,11,30.0,7,7,1
+2026-07-07,BEO SANDESHKHALI-II,20,AI Gloves (50 Pcs Packet) - 2024,0,1.0,7,7,1
+2026-07-07,BEO SANDESHKHALI-II,20,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,2.0,7,7,1
+2026-07-07,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,23.0,7,7,1
+2026-07-07,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - GIR,7,76.0,7,7,1
+2026-07-07,BEO SANDESHKHALI-II,20,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,27.0,7,7,1
+2026-07-07,BEO SANDESHKHALI-II,20,Liquid Nitrogen (LN2) ,11,24.0,7,7,1
+2026-07-07,BEO SWARUPNAGAR,21,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,10.0,7,7,1
+2026-07-07,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,185.0,7,7,1
+2026-07-07,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,175.0,7,7,1
+2026-07-07,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - GIR,7,155.0,7,7,1
+2026-07-07,BEO SWARUPNAGAR,21,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,55.0,7,7,1
+2026-07-07,BEO SWARUPNAGAR,21,Liquid Nitrogen (LN2) ,11,67.0,7,7,1
+2026-07-07,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,7,7,1
+2026-07-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,20.0,7,7,1
+2026-07-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,40.0,7,7,1
+2026-07-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,20.0,7,7,1
+2026-07-07,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,30.0,7,7,1
+2026-07-07,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,87.0,7,7,1
+2026-07-08,BEO BARRACKPUR-I,5,AI Gloves (50 Pcs Packet) - 2024,0,1.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,11.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,65.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,120.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - GIR,7,180.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,75.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Frozen Semen Straw (FSS) Buffalo Murrah,9,220.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Goblet (35 X 118mm)_2023,10,7.0,8,7,2
+2026-07-08,BEO BARRACKPUR-I,5,Liquid Nitrogen (LN2) ,11,155.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,AI Gloves (50 Pcs Packet) - 2024,0,4.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,10.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,80.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,110.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - GIR,7,80.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,70.0,8,7,2
+2026-07-08,BEO BASIRHAT-I,7,Liquid Nitrogen (LN2) ,11,60.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,AI Gloves (50 Pcs Packet) - 2024,0,5.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,6.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,70.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,135.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - GIR,7,135.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,60.0,8,7,2
+2026-07-08,BEO BASIRHAT-II,8,Liquid Nitrogen (LN2) ,11,66.0,8,7,2
+2026-07-08,BEO BONGAON,9,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,5.0,8,7,2
+2026-07-08,BEO BONGAON,9,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,140.0,8,7,2
+2026-07-08,BEO BONGAON,9,Frozen Semen Straw (FSS) - GIR,7,129.0,8,7,2
+2026-07-08,BEO BONGAON,9,Liquid Nitrogen (LN2) ,11,81.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,AI Gloves (50 Pcs Packet) - 2024,0,10.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,11.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Holstein Friesion (CBHF),5,117.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - GIR,7,92.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,39.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,Liquid Nitrogen (LN2) ,11,117.0,8,7,2
+2026-07-08,BEO GAIGHATA,11,Sex Sorted Semen Straw (SS) Pure Jersey (PJ),16,30.0,8,7,2
+2026-07-08,BEO HASNABAD,15,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,6.0,8,7,2
+2026-07-08,BEO HASNABAD,15,Frozen Semen Straw (FSS) - GIR,7,10.0,8,7,2
+2026-07-08,BEO HASNABAD,15,Liquid Nitrogen (LN2) ,11,9.0,8,7,2
+2026-07-08,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - GIR,7,5.0,8,7,2
+2026-07-08,BEO MINAKHAN,17,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,15.0,8,7,2
+2026-07-08,BEO MINAKHAN,17,Liquid Nitrogen (LN2) ,11,18.0,8,7,2
+2026-07-08,DPD 24 PARAGANAS NORTH ,22,AI Sheath - for 0.25 ml straw (50 Pcs Packet),3,1.0,8,7,2
+2026-07-08,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Cross Breed Jersey (CBJ),6,10.0,8,7,2
+2026-07-08,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - GIR,7,10.0,8,7,2
+2026-07-08,DPD 24 PARAGANAS NORTH ,22,Frozen Semen Straw (FSS) - Pure Jersey (PJ) ,8,10.0,8,7,2
+2026-07-08,DPD 24 PARAGANAS NORTH ,22,Liquid Nitrogen (LN2) ,11,37.0,8,7,2
