@@ -37,7 +37,7 @@ def predict_date_range(start_date, end_date, office_id, product_id):
     return total_sales
 
 # --- 3. Top-Level Tabs ---
-main_tab1, main_tab2, main_tab3, main_tab4 = st.tabs(["Sales Prediction","Demand Forecasting", "Worker Performance", "Early Warning System"])
+main_tab1, main_tab2, main_tab3, main_tab4, main_tab5, main_tab6 = st.tabs(["Sales Prediction","Demand Forecasting", "Worker Performance", "Early Warning System","Product Recommendation", "Sales Trends"])
 
 # ============================================================
 # MAIN TAB 1: SALES PREDICTION (Micro + Macro)
@@ -328,3 +328,71 @@ with main_tab4:
             
     except FileNotFoundError:
         st.warning("⚠️ Waiting for data. Please run your Jupyter Notebook to generate 'm4_worker_predictions.csv'.")
+with main_tab5:
+    st.header("💡 Module 5: AI Product Recommendation")
+    st.write("AI-driven suggestions for product supply based on office demand patterns.")
+
+    try:
+        # Load the recommendations file
+        df_recs = pd.read_csv("m5_product_recommendations.csv")
+
+        # 1. Dropdown for selecting an office
+        st.subheader("Select Office to View Recommendations")
+        selected_office = st.selectbox(
+            "Which office do you need to stock?", 
+            options=df_recs['Office Name'].unique(),
+            key='m5_office_select'
+        )
+
+        # 2. Display the recommendation
+        # Filter the dataframe for the selected office
+        office_rec = df_recs[df_recs['Office Name'] == selected_office]['Recommended Products'].iloc[0]
+
+        # Use an attractive layout to show the products
+        st.success(f"### Recommended Products for {selected_office}")
+        st.write(f"Based on historical sales data, prioritize the supply of: **{office_rec}**")
+        
+        # 3. Visual insight
+        st.info("💡 Note: These recommendations are based on the highest sales volume recorded for each product at this location.")
+
+        # 4. View all table
+        with st.expander("View Full Recommendation Matrix"):
+            st.dataframe(df_recs, use_container_width=True)
+
+    except FileNotFoundError:
+        st.warning("⚠️ Module 5 data not found. Please run your Jupyter code to generate 'm5_product_recommendations.csv'.")
+    except Exception as e:
+        st.error(f"An error occurred: {e}")
+with main_tab6: # Update this variable to match your new tab name (e.g., tab5)
+    st.header("📈 Module 6: Sales Trend Analysis")
+    st.write("Track daily revenue and volume to identify seasonal peaks and overall growth.")
+
+    try:
+        # Load the trend data
+        df_trend = pd.read_csv("m6_sales_trends.csv")
+        
+        # Convert date back to datetime for Streamlit plotting
+        df_trend['Sale Date'] = pd.to_datetime(df_trend['Sale Date'])
+        
+        # Create a toggle so the user can switch between looking at Revenue vs Quantity
+        metric_choice = st.radio("Select Metric to Analyze:", ["Total Sales (Revenue)", "Total Quantity (Volume)"])
+        
+        # Set the Y-axis based on the user's choice
+        y_axis = 'Total_Sales' if metric_choice == "Total Sales (Revenue)" else 'Total_Quantity'
+        
+        # Display the interactive Streamlit Line Chart
+        st.line_chart(
+            data=df_trend, 
+            x='Sale Date', 
+            y=y_axis,
+            use_container_width=True
+        )
+        
+        # Show the raw data below the chart in a collapsible expander
+        with st.expander("View Raw Trend Data"):
+            st.dataframe(df_trend, use_container_width=True)
+            
+    except FileNotFoundError:
+        st.warning("⚠️ Module 6 data not found. Please run your Jupyter code to generate 'm6_sales_trends.csv'.")
+    except Exception as e:
+        st.error(f"An error occurred: {e}")
